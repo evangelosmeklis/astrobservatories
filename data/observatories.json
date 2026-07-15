@@ -1,0 +1,2779 @@
+{
+  "observatories": [
+    {
+      "id": "noa-thiseio",
+      "name": "National Observatory of Athens (Thiseio)",
+      "location": "Hill of the Nymphs, Athens, Greece",
+      "coords": [
+        37.97347,
+        23.71862
+      ],
+      "altitude_m": 107,
+      "founded": 1842,
+      "type": "Historic / Visitor Centre",
+      "operator": "National Observatory of Athens (NOA)",
+      "bortle": 8,
+      "telescopes": "40 cm Doridis refractor (1902), historic instruments",
+      "description": "The first research institution of the modern Greek state. The neoclassical Thiseio building, facing the Acropolis, now serves as a Visitor Centre with a geoastrophysics museum and public observing nights on the historic Doridis telescope.",
+      "history": "Founded in 1842 with a donation from Georgios Sinas, designed by architect Theophil Hansen. Its cornerstone was laid during a solar eclipse. For decades it was the centre of Greek astronomy, meteorology and seismology.",
+      "website": "https://www.noa.gr"
+    },
+    {
+      "id": "noa-penteli",
+      "name": "Penteli Observatory",
+      "location": "Koufos Hill, Penteli, Attica, Greece",
+      "coords": [
+        38.0489,
+        23.8633
+      ],
+      "altitude_m": 500,
+      "founded": 1937,
+      "type": "Historic / Visitor Centre",
+      "operator": "National Observatory of Athens (NOA)",
+      "bortle": 6,
+      "telescopes": "62.5 cm Newall refractor (1869)",
+      "description": "NOA's Penteli station hosts the Newall telescope and the Penteli Visitor Centre, offering events, guided tours and public astronomy nights.",
+      "history": "When built in 1869 the Newall telescope was the largest refractor in the world. It was donated by the University of Cambridge and installed at Penteli in 1959, in a dome that became a local landmark.",
+      "website": "https://www.noa.gr/public-outreach/kentra-episkeptwn/"
+    },
+    {
+      "id": "kryoneri",
+      "name": "Kryoneri Observatory",
+      "location": "Mount Kyllini, Corinthia, Greece",
+      "coords": [
+        37.9725,
+        22.6203
+      ],
+      "altitude_m": 930,
+      "founded": 1972,
+      "type": "Research",
+      "operator": "IAASARS / National Observatory of Athens",
+      "bortle": 4,
+      "telescopes": "1.2 m Korgialenios reflector (Grubb Parsons, 1975)",
+      "description": "A NOA research station in Corinthia. It hosts ESA's NELIOTA programme, monitoring flashes from meteoroid impacts on the Moon — one of the leading such services worldwide.",
+      "history": "Founded in 1972 with a grant from the Korgialenios Foundation. The 1.2 m telescope was installed in 1975 and extensively upgraded in 2016 for the NELIOTA programme.",
+      "website": "https://kryoneri.astro.noa.gr"
+    },
+    {
+      "id": "helmos",
+      "name": "Helmos Observatory (Aristarchos)",
+      "location": "Mount Helmos, Kalavryta, Greece",
+      "coords": [
+        37.9858,
+        22.1983
+      ],
+      "altitude_m": 2340,
+      "founded": 2007,
+      "type": "Research",
+      "operator": "IAASARS / National Observatory of Athens",
+      "bortle": 3,
+      "telescopes": "2.3 m Aristarchos telescope — the largest in Greece and the Balkans",
+      "description": "Greece's highest observatory, at 2,340 m, in one of the darkest areas of continental Europe. Besides astrophysics research it participates in ESA optical and quantum communication programmes as a laser ground station.",
+      "history": "The Aristarchos telescope was inaugurated in 2007, named after Aristarchus of Samos, the first to propose the heliocentric model.",
+      "website": "https://helmos.astro.noa.gr"
+    },
+    {
+      "id": "skinakas",
+      "name": "Skinakas Observatory",
+      "location": "Psiloritis, Crete, Greece",
+      "coords": [
+        35.2119,
+        24.8982
+      ],
+      "altitude_m": 1750,
+      "founded": 1986,
+      "type": "Research / University",
+      "operator": "University of Crete, FORTH & Max Planck Institute",
+      "bortle": 3,
+      "telescopes": "1.3 m modified Ritchey-Chrétien (1995), 30 cm Schmidt-Cassegrain (1986)",
+      "description": "At 1,750 m on Mount Psiloritis, with outstanding atmospheric quality for observations in the Mediterranean. It holds popular public open nights every summer.",
+      "history": "It began in 1986 with the 30 cm telescope, timed with the return of Halley's Comet. The 1.3 m telescope was added in 1995 as a Greek–German collaboration.",
+      "website": "https://skinakas.physics.uoc.gr"
+    },
+    {
+      "id": "gerostathopouleio",
+      "name": "Gerostathopouleion Observatory (Univ. of Athens)",
+      "location": "Zografou Campus, Athens, Greece",
+      "coords": [
+        37.9686,
+        23.7838
+      ],
+      "altitude_m": 220,
+      "founded": 1999,
+      "type": "University / Educational",
+      "operator": "National and Kapodistrian University of Athens",
+      "bortle": 8,
+      "telescopes": "40 cm Cassegrain reflector",
+      "description": "The observatory of the Physics Department of the University of Athens, on the Zografou campus. It serves student training and hosts public open nights.",
+      "history": "Built with a donation from the Gerostathopoulos family, continuing the long tradition of university astronomy in Athens.",
+      "website": "http://observatory.phys.uoa.gr"
+    },
+    {
+      "id": "auth",
+      "name": "Aristotle University Observatory",
+      "location": "AUTh Campus, Thessaloniki, Greece",
+      "coords": [
+        40.632,
+        22.9587
+      ],
+      "altitude_m": 50,
+      "founded": 1943,
+      "type": "University / Historic",
+      "operator": "Aristotle University of Thessaloniki",
+      "bortle": 8,
+      "telescopes": "Historic refractors and educational instruments",
+      "description": "The historic observatory of AUTh's Astrophysics section, on the university campus. Today it operates mainly for student training and public astronomy outreach.",
+      "history": "Tied to the establishment of AUTh's chair of astronomy in the mid-20th century, it has been the home base of astronomy in northern Greece.",
+      "website": "https://www.astro.auth.gr"
+    },
+    {
+      "id": "holomon",
+      "name": "Holomon Astronomical Station",
+      "location": "Mount Holomon, Chalkidiki, Greece",
+      "coords": [
+        40.437,
+        23.47
+      ],
+      "approx": true,
+      "altitude_m": 1000,
+      "founded": 2003,
+      "type": "University / Research",
+      "operator": "Aristotle University of Thessaloniki",
+      "bortle": 4,
+      "telescopes": "Small/medium-class telescopes with remote operation",
+      "description": "AUTh's observing station on Mount Holomon, away from the lights of Thessaloniki. It is used for student theses and research observations, often operated remotely from the city.",
+      "history": "Systematic observations began around 2002–2003 with students using portable telescopes, before the station gained permanent facilities.",
+      "website": "https://www.astro.auth.gr"
+    },
+    {
+      "id": "eudoxos",
+      "name": "Eudoxos Observatories of Ainos",
+      "location": "Ainos plateau, Kefalonia, Greece",
+      "coords": [
+        38.155,
+        20.63
+      ],
+      "approx": true,
+      "altitude_m": 1070,
+      "founded": 1999,
+      "type": "Research / Educational (robotic)",
+      "operator": "Research Foundation of Kefallinia (RFK) “Eudoxos”",
+      "bortle": 3,
+      "telescopes": "Robotic telescopes for education and research",
+      "description": "A complex of observatories around the Ainos plateau. In 2023 Ainos National Park became Greece's first International Dark Sky Park.",
+      "history": "Founded in 1999 as the first robotic astronomy centre in Greece, with telescopes remotely accessible to schools and researchers. Named after the ancient astronomer Eudoxus of Cnidus.",
+      "website": "https://astro-eudoxos.org"
+    },
+    {
+      "id": "orliakas",
+      "name": "Orliakas Astronomy Park",
+      "location": "Mount Orliakas, Grevena, Greece",
+      "coords": [
+        40.05,
+        21.35
+      ],
+      "approx": true,
+      "altitude_m": 1430,
+      "founded": 2019,
+      "type": "Public / Astrotourism",
+      "operator": "Local bodies & the amateur astronomy community",
+      "bortle": 3,
+      "telescopes": "Amateur telescopes, open-air observing sites",
+      "description": "An astronomy park in the shadow of the Pindus range, in one of the darkest corners of mainland Greece. An astrotourism destination with organised observing nights.",
+      "history": "Created by the local community and amateur astronomers to showcase the dark skies of Grevena.",
+      "website": ""
+    },
+    {
+      "id": "pic-du-midi",
+      "name": "Pic du Midi Observatory",
+      "location": "Pic du Midi de Bigorre, French Pyrenees, France",
+      "coords": [
+        42.9364,
+        0.1411
+      ],
+      "altitude_m": 2877,
+      "founded": 1878,
+      "type": "Research / Historic",
+      "operator": "Observatoire Midi-Pyrénées",
+      "bortle": 2,
+      "telescopes": "2 m Bernard Lyot telescope, 1 m and solar instruments",
+      "description": "A spectacular mountaintop observatory reached by cable car, combining active research with a famous visitor centre and dark-sky reserve.",
+      "history": "Founded in 1878. Its exceptionally sharp lunar photographs were used by NASA to prepare the Apollo Moon landings, and Bernard Lyot pioneered the coronagraph here.",
+      "website": "https://picdumidi.com"
+    },
+    {
+      "id": "effelsberg",
+      "name": "Effelsberg Radio Telescope",
+      "location": "Bad Münstereifel, Germany",
+      "coords": [
+        50.5248,
+        6.8836
+      ],
+      "altitude_m": 319,
+      "founded": 1972,
+      "type": "Radio",
+      "operator": "Max Planck Institute for Radio Astronomy",
+      "bortle": 4,
+      "telescopes": "100 m fully steerable radio dish",
+      "description": "One of the largest fully steerable radio telescopes on Earth, tucked in a valley of the Eifel hills to shield it from man-made radio interference.",
+      "history": "For 29 years after its 1972 completion it was the largest fully steerable radio telescope in the world.",
+      "website": "https://www.mpifr-bonn.mpg.de/en/effelsberg"
+    },
+    {
+      "id": "sphinx",
+      "name": "Sphinx Observatory",
+      "location": "Jungfraujoch, Swiss Alps, Switzerland",
+      "coords": [
+        46.5475,
+        7.9851
+      ],
+      "altitude_m": 3571,
+      "founded": 1937,
+      "type": "High-altitude research",
+      "operator": "International Foundation HFSJG",
+      "bortle": 2,
+      "telescopes": "76 cm reflector and atmospheric research instruments",
+      "description": "Perched on a rock pinnacle at 3,571 m between glaciers, one of the highest observatories in Europe and an icon of Alpine science.",
+      "history": "Completed in 1937, reachable through the Jungfrau railway tunnel. Today it focuses on atmospheric and climate research.",
+      "website": "https://www.hfsjg.ch"
+    },
+    {
+      "id": "mauna-kea-observatories",
+      "name": "Mauna Kea Observatories",
+      "location": "Mauna Kea summit, Hawaii, United States",
+      "coords": [
+        19.8207,
+        -155.4681
+      ],
+      "altitude_m": 4205,
+      "founded": 1967,
+      "type": "Research (multi-observatory site)",
+      "operator": "University of Hawaiʻi / international partners",
+      "bortle": 1,
+      "telescopes": "Keck I & II 10 m, Subaru 8.2 m, Gemini North 8.1 m, CFHT 3.6 m, UKIRT 3.8 m, IRTF 3.0 m, JCMT 15 m, SMA 8 × 6 m",
+      "description": "The highest major optical-infrared observatory site on Earth, Mauna Kea concentrates many of the Northern Hemisphere's flagship telescopes on one summit.",
+      "history": "University of Hawaiʻi began astronomical work on Mauna Kea in the 1960s, and the summit developed into a multinational observatory complex over the following decades.",
+      "website": "https://www.maunakeaobservatories.org/"
+    },
+    {
+      "id": "haleakala-observatories",
+      "name": "Haleakalā Observatories",
+      "location": "Haleakalā summit, Maui, Hawaii, United States",
+      "coords": [
+        20.7083,
+        -156.2567
+      ],
+      "altitude_m": 3055,
+      "founded": 1958,
+      "type": "Research (multi-observatory site)",
+      "operator": "University of Hawaiʻi / NSF NSO / US Air Force / international partners",
+      "bortle": 2,
+      "telescopes": "Daniel K. Inouye Solar Telescope 4 m, Pan-STARRS PS1 & PS2 1.8 m, AEOS 3.67 m, Mees Solar Observatory 0.25 m",
+      "description": "Haleakalā hosts the world's largest solar telescope, DKIST, together with the Pan-STARRS survey telescopes that transformed asteroid and transient discovery.",
+      "history": "The site first developed for solar and satellite-tracking work in the mid-20th century and later expanded into survey astronomy and solar physics.",
+      "website": "https://about.ifa.hawaii.edu/facility/haleakala-observatories/"
+    },
+    {
+      "id": "mauna-loa-solar-observatory",
+      "name": "Mauna Loa Solar Observatory",
+      "location": "Mauna Loa, Hawaii, United States",
+      "coords": [
+        19.5362,
+        -155.5763
+      ],
+      "altitude_m": 3397,
+      "founded": 1965,
+      "type": "Solar",
+      "operator": "National Center for Atmospheric Research",
+      "bortle": 1,
+      "telescopes": "K-Coronameter, COSMO site instruments, solar patrol telescopes",
+      "description": "This high-altitude solar observatory is famous for long synoptic records of the solar corona and for monitoring coronal mass ejections and prominences.",
+      "history": "NCAR established the site during the space age to provide continuous solar patrol observations.",
+      "website": "https://www2.hao.ucar.edu/"
+    },
+    {
+      "id": "kitt-peak-national-observatory",
+      "name": "Kitt Peak National Observatory",
+      "location": "Kitt Peak, Arizona, United States",
+      "coords": [
+        31.9583,
+        -111.6
+      ],
+      "altitude_m": 2096,
+      "founded": 1958,
+      "type": "Research (multi-observatory site)",
+      "operator": "NSF NOIRLab",
+      "bortle": 3,
+      "telescopes": "Mayall 4 m, WIYN 3.5 m, KPNO 2.1 m, McMath-Pierce Solar Telescope, ARO 12 m, VLBA antenna",
+      "description": "Kitt Peak is one of the largest concentrations of optical and radio instruments in the Northern Hemisphere.",
+      "history": "Selected in 1958 as the site of the U.S. national observatory, Kitt Peak became central to postwar American astronomy.",
+      "website": "https://kpno.noirlab.edu/"
+    },
+    {
+      "id": "apache-point-observatory",
+      "name": "Apache Point Observatory",
+      "location": "Sacramento Mountains, New Mexico, United States",
+      "coords": [
+        32.78,
+        -105.82
+      ],
+      "altitude_m": 2788,
+      "founded": 1985,
+      "type": "Research",
+      "operator": "Astrophysical Research Consortium",
+      "bortle": 2,
+      "telescopes": "ARC 3.5 m, Sloan Foundation 2.5 m, NMSU 1 m",
+      "description": "Apache Point is best known for the Sloan 2.5-meter telescope, one of the most influential survey instruments in modern astronomy.",
+      "history": "The observatory was developed in the 1980s by the Astrophysical Research Consortium.",
+      "website": "https://www.apo.nmsu.edu/"
+    },
+    {
+      "id": "mount-graham-international-observatory",
+      "name": "Mount Graham International Observatory",
+      "location": "Mount Graham, Arizona, United States",
+      "coords": [
+        32.7016,
+        -109.8891
+      ],
+      "altitude_m": 3191,
+      "founded": 1993,
+      "type": "Research (multi-observatory site)",
+      "operator": "University of Arizona / international partners",
+      "bortle": 2,
+      "telescopes": "Large Binocular Telescope 2 × 8.4 m, Vatican Advanced Technology Telescope 1.8 m, Heinrich Hertz Submillimeter Telescope 10 m",
+      "description": "Mount Graham hosts the Large Binocular Telescope, whose twin primary mirrors make it one of the most powerful optical telescopes in the world.",
+      "history": "The mountain-top observatory was developed after long scientific and environmental debate in the late 20th century.",
+      "website": "https://mgio.arizona.edu/"
+    },
+    {
+      "id": "mcdonald-observatory",
+      "name": "McDonald Observatory",
+      "location": "Mount Locke and Mount Fowlkes, Texas, United States",
+      "coords": [
+        30.6717,
+        -104.0228
+      ],
+      "altitude_m": 2070,
+      "founded": 1939,
+      "type": "Research (multi-observatory site)",
+      "operator": "University of Texas at Austin",
+      "bortle": 2,
+      "telescopes": "Harlan J. Smith 2.7 m, Hobby-Eberly Telescope 9.2 m, Otto Struve 2.1 m, 0.8 m and 1.0 m class telescopes",
+      "description": "McDonald Observatory is the leading U.S. observatory in Texas and home to the queue-scheduled Hobby-Eberly Telescope.",
+      "history": "The site opened in 1939 with the Otto Struve Telescope and later expanded across the Davis Mountains.",
+      "website": "https://mcdonaldobservatory.org/"
+    },
+    {
+      "id": "palomar-observatory",
+      "name": "Palomar Observatory",
+      "location": "Palomar Mountain, California, United States",
+      "coords": [
+        33.3563,
+        -116.865
+      ],
+      "altitude_m": 1713,
+      "founded": 1948,
+      "type": "Research",
+      "operator": "Caltech",
+      "bortle": 3,
+      "telescopes": "Hale Telescope 5.1 m, Samuel Oschin Schmidt 1.2 m, 1.5 m and 1.8 m class telescopes",
+      "description": "Palomar's 200-inch Hale Telescope defined the frontier of large optical astronomy for decades, while the Oschin Schmidt drove some of the most important photographic and digital sky surveys ever undertaken.",
+      "history": "Funded largely by the Rockefeller Foundation and opened after World War II, Palomar became the world's premier optical observatory.",
+      "website": "https://sites.astro.caltech.edu/palomar/homepage.html"
+    },
+    {
+      "id": "lick-observatory",
+      "name": "Lick Observatory",
+      "location": "Mount Hamilton, California, United States",
+      "coords": [
+        37.3414,
+        -121.6429
+      ],
+      "altitude_m": 1283,
+      "founded": 1888,
+      "type": "Research",
+      "operator": "University of California Observatories",
+      "bortle": 4,
+      "telescopes": "Shane 3 m, Automated Planet Finder 2.4 m, Nickel 1 m, historic 36 in refractor",
+      "description": "Lick was the world's first permanently occupied mountaintop observatory and an early model for modern high-altitude astronomy.",
+      "history": "The observatory opened with the 36-inch refractor, then the world's largest refracting telescope.",
+      "website": "https://www.ucolick.org/"
+    },
+    {
+      "id": "green-bank-observatory",
+      "name": "Green Bank Observatory",
+      "location": "Green Bank, West Virginia, United States",
+      "coords": [
+        38.4331,
+        -79.8397
+      ],
+      "altitude_m": 807,
+      "founded": 1958,
+      "type": "Radio",
+      "operator": "Green Bank Observatory",
+      "bortle": 2,
+      "telescopes": "Green Bank Telescope 100 m, 20 m telescope, 40 ft telescope, historic 140 ft site",
+      "description": "Green Bank hosts the world's largest fully steerable radio telescope, the 100-meter GBT, in the U.S. National Radio Quiet Zone.",
+      "history": "The National Radio Astronomy Observatory developed Green Bank in the 1950s, and the current GBT entered service in 2000.",
+      "website": "https://greenbankobservatory.org/"
+    },
+    {
+      "id": "very-large-array",
+      "name": "Very Large Array",
+      "location": "Plains of San Agustin, New Mexico, United States",
+      "coords": [
+        34.0787,
+        -107.6183
+      ],
+      "altitude_m": 2124,
+      "founded": 1980,
+      "type": "Radio",
+      "operator": "NRAO",
+      "bortle": 2,
+      "telescopes": "27 × 25 m antennas on Y-shaped rail tracks up to 36 km baseline",
+      "description": "The Karl G. Jansky Very Large Array is one of the world's most famous radio interferometers.",
+      "history": "Built by NRAO and opened in 1980, the VLA became a workhorse of centimeter-wave astronomy.",
+      "website": "https://public.nrao.edu/telescopes/vla/"
+    },
+    {
+      "id": "hat-creek-radio-observatory",
+      "name": "Hat Creek Radio Observatory",
+      "location": "Hat Creek Valley, California, United States",
+      "coords": [
+        40.8174,
+        -121.4707
+      ],
+      "altitude_m": 1019,
+      "founded": 1950,
+      "type": "Radio",
+      "operator": "Radio Astronomy Laboratory, University of California / SETI Institute",
+      "bortle": 2,
+      "telescopes": "Allen Telescope Array 42 × 6.1 m, historic HCRO dishes",
+      "description": "Hat Creek is best known today for the Allen Telescope Array, built for survey radio astronomy and technosignature searches.",
+      "history": "Radio astronomy began here in the 1950s under the University of California.",
+      "website": "https://www.seti.org/ata"
+    },
+    {
+      "id": "owens-valley-radio-observatory",
+      "name": "Owens Valley Radio Observatory",
+      "location": "Owens Valley, California, United States",
+      "coords": [
+        37.2331,
+        -118.2817
+      ],
+      "altitude_m": 1222,
+      "founded": 1958,
+      "type": "Radio",
+      "operator": "Caltech",
+      "bortle": 2,
+      "telescopes": "OVRO Array 6 × 10.4 m, 40 m telescope, Long Wavelength Array station",
+      "description": "OVRO has long been a premier Caltech radio site for millimeter interferometry, cosmology, and transient astronomy.",
+      "history": "Founded in the late 1950s, OVRO pioneered millimeter-wave interferometry in the United States.",
+      "website": "https://www.ovro.caltech.edu/"
+    },
+    {
+      "id": "big-bear-solar-observatory",
+      "name": "Big Bear Solar Observatory",
+      "location": "Big Bear Lake, California, United States",
+      "coords": [
+        34.2633,
+        -116.9214
+      ],
+      "altitude_m": 2067,
+      "founded": 1969,
+      "type": "Solar",
+      "operator": "New Jersey Institute of Technology",
+      "bortle": 4,
+      "telescopes": "Goode Solar Telescope 1.6 m, historic vacuum telescope",
+      "description": "Built on a lake-island site to reduce daytime turbulence, Big Bear is one of the world's best high-resolution solar observatories.",
+      "history": "The observatory originated under Caltech and moved to NJIT stewardship later on.",
+      "website": "https://www.bbso.njit.edu/"
+    },
+    {
+      "id": "fred-lawrence-whipple-observatory",
+      "name": "Fred Lawrence Whipple Observatory",
+      "location": "Mount Hopkins, Arizona, United States",
+      "coords": [
+        31.6883,
+        -110.885
+      ],
+      "altitude_m": 2320,
+      "founded": 1968,
+      "type": "Research (multi-observatory site)",
+      "operator": "Center for Astrophysics | Harvard & Smithsonian",
+      "bortle": 3,
+      "telescopes": "MMT 6.5 m nearby on Mount Hopkins, VERITAS 4 × 12 m, 1.5 m Tillinghast, 1.2 m and monitoring telescopes",
+      "description": "Whipple Observatory is a major Arizona site for optical, infrared, and gamma-ray astronomy.",
+      "history": "The Smithsonian began using Mount Hopkins in the 1960s, later naming the observatory for Fred Lawrence Whipple.",
+      "website": "https://www.cfa.harvard.edu/flwo/"
+    },
+    {
+      "id": "roque-de-los-muchachos-observatory",
+      "name": "Roque de los Muchachos Observatory",
+      "location": "Roque de los Muchachos, La Palma, Spain",
+      "coords": [
+        28.7583,
+        -17.8891
+      ],
+      "altitude_m": 2396,
+      "founded": 1985,
+      "type": "Research (multi-observatory site)",
+      "operator": "Instituto de Astrofísica de Canarias",
+      "bortle": 1,
+      "telescopes": "Gran Telescopio Canarias 10.4 m, William Herschel 4.2 m, TNG 3.58 m, Nordic Optical Telescope 2.56 m, MAGIC 2 × 17 m, SST and Cherenkov instruments",
+      "description": "Roque de los Muchachos is the most important optical observatory in Europe and one of the best observing sites in the Northern Hemisphere.",
+      "history": "The La Palma site was developed after long surveys of Canary Islands seeing and officially inaugurated in 1985.",
+      "website": "https://www.iac.es/en/observatorios-de-canarias/roque-de-los-muchachos-observatory"
+    },
+    {
+      "id": "teide-observatory",
+      "name": "Teide Observatory",
+      "location": "Izaña, Tenerife, Spain",
+      "coords": [
+        28.3,
+        -16.5097
+      ],
+      "altitude_m": 2390,
+      "founded": 1964,
+      "type": "Research (multi-observatory site)",
+      "operator": "Instituto de Astrofísica de Canarias",
+      "bortle": 2,
+      "telescopes": "GREGOR 1.5 m solar telescope, STELLA 2 × 1.2 m, IAC-80 0.82 m, QUIJOTE, VTT, robotic and CMB instruments",
+      "description": "Teide is one of the world's leading solar observatory sites and also hosts important night-time and microwave instruments.",
+      "history": "The site began as the Izaña Atmospheric Observatory area and was developed for astronomy in the 1960s.",
+      "website": "https://www.iac.es/en/observatorios-de-canarias/teide-observatory"
+    },
+    {
+      "id": "calar-alto-observatory",
+      "name": "Calar Alto Observatory",
+      "location": "Sierra de los Filabres, Andalusia, Spain",
+      "coords": [
+        37.2236,
+        -2.5463
+      ],
+      "altitude_m": 2168,
+      "founded": 1973,
+      "type": "Research (multi-observatory site)",
+      "operator": "CAHA / CSIC and Junta de Andalucía",
+      "bortle": 2,
+      "telescopes": "3.5 m telescope, 2.2 m telescope, 1.23 m telescope, CARMENES spectrograph",
+      "description": "Calar Alto is continental Europe's largest astronomical observatory.",
+      "history": "German and Spanish institutions developed the site in the early 1970s as a flagship observatory in southern Europe.",
+      "website": "https://www.caha.es/"
+    },
+    {
+      "id": "sierra-nevada-observatory",
+      "name": "Sierra Nevada Observatory",
+      "location": "Loma de Dílar, Andalusia, Spain",
+      "coords": [
+        37.0642,
+        -3.3847
+      ],
+      "altitude_m": 2896,
+      "founded": 1975,
+      "type": "Research",
+      "operator": "Instituto de Astrofísica de Andalucía",
+      "bortle": 2,
+      "telescopes": "1.5 m telescope, 0.9 m telescope, high-resolution solar and stellar instruments",
+      "description": "At nearly 2,900 meters in the Sierra Nevada, this observatory is one of Europe's highest optical sites.",
+      "history": "The observatory was established by the Spanish National Research Council during the expansion of modern Spanish astronomy.",
+      "website": "https://www.osn.iaa.es/"
+    },
+    {
+      "id": "haute-provence-observatory",
+      "name": "Haute-Provence Observatory",
+      "location": "Saint-Michel-l'Observatoire, Provence, France",
+      "coords": [
+        43.9308,
+        5.7133
+      ],
+      "altitude_m": 650,
+      "founded": 1937,
+      "type": "Research",
+      "operator": "CNRS / Aix-Marseille University / OHP",
+      "bortle": 3,
+      "telescopes": "1.93 m telescope, 1.52 m telescope, smaller spectroscopic telescopes",
+      "description": "OHP is best known as the site where Michel Mayor and Didier Queloz discovered 51 Pegasi b, the first exoplanet found orbiting a Sun-like star, using the 1.93-meter telescope.",
+      "history": "Founded before World War II as France's rural alternative to brightening urban observatories, OHP became a center for stellar and planetary spectroscopy.",
+      "website": "https://www.obs-hp.fr/"
+    },
+    {
+      "id": "nancay-radio-observatory",
+      "name": "Nançay Radio Observatory",
+      "location": "Nançay, Centre-Val de Loire, France",
+      "coords": [
+        47.3767,
+        2.1922
+      ],
+      "altitude_m": 150,
+      "founded": 1953,
+      "type": "Radio",
+      "operator": "Observatoire de Paris / CNRS",
+      "bortle": 4,
+      "telescopes": "Nançay Decimetric Radio Telescope, NenuFAR low-frequency array, solar and pulsar instruments",
+      "description": "Nançay is France's principal radio astronomy site and is particularly known for pulsar timing, solar radio work, and low-frequency arrays.",
+      "history": "Built after World War II at a radio-quiet rural location, Nançay became France's main radio observatory.",
+      "website": "https://www.obs-nancay.fr/"
+    },
+    {
+      "id": "jodrell-bank-observatory",
+      "name": "Jodrell Bank Observatory",
+      "location": "Lower Withington, Cheshire, England, United Kingdom",
+      "coords": [
+        53.2363,
+        -2.3071
+      ],
+      "altitude_m": 78,
+      "founded": 1945,
+      "type": "Radio",
+      "operator": "University of Manchester",
+      "bortle": 4,
+      "telescopes": "Lovell Telescope 76.2 m, Mark II 32 m, e-MERLIN and VLBI infrastructure",
+      "description": "Jodrell Bank is one of the world's great radio observatories and a UNESCO World Heritage Site.",
+      "history": "Bernard Lovell founded the observatory just after World War II to escape urban radio interference.",
+      "website": "https://www.jodrellbank.net/"
+    },
+    {
+      "id": "mullard-radio-astronomy-observatory",
+      "name": "Mullard Radio Astronomy Observatory",
+      "location": "Cambridge, England, United Kingdom",
+      "coords": [
+        52.1676,
+        0.0326
+      ],
+      "altitude_m": 20,
+      "founded": 1957,
+      "type": "Radio",
+      "operator": "University of Cambridge",
+      "bortle": 4,
+      "telescopes": "Ryle Telescope site, Arcminute Microkelvin Imager, LOFAR-UK, e-MERLIN Cambridge infrastructure",
+      "description": "MRAO is the University of Cambridge's historic radio astronomy field station and a key site in the development of aperture synthesis.",
+      "history": "The observatory grew from Martin Ryle's postwar radio astronomy group and became the birthplace of several generations of synthesis arrays.",
+      "website": "https://www.astro.phy.cam.ac.uk/research/mrao"
+    },
+    {
+      "id": "tautenburg-observatory",
+      "name": "Karl Schwarzschild Observatory",
+      "location": "Tautenburg, Thuringia, Germany",
+      "coords": [
+        50.98,
+        11.711
+      ],
+      "altitude_m": 331,
+      "founded": 1960,
+      "type": "Research",
+      "operator": "Thüringer Landessternwarte Tautenburg",
+      "bortle": 4,
+      "telescopes": "2 m Alfred Jensch telescope, Schmidt camera, spectrographs",
+      "description": "Tautenburg's 2-meter Alfred Jensch Telescope is one of the largest Schmidt telescopes ever built and remains a distinctive multipurpose instrument.",
+      "history": "Established in East Germany during the Cold War, Tautenburg created an unusually large Schmidt system for survey astronomy.",
+      "website": "https://www.tls-tautenburg.de/"
+    },
+    {
+      "id": "westerbork-synthesis-radio-telescope",
+      "name": "Westerbork Synthesis Radio Telescope",
+      "location": "Westerbork, Drenthe, Netherlands",
+      "coords": [
+        52.9158,
+        6.6033
+      ],
+      "altitude_m": 16,
+      "founded": 1970,
+      "type": "Radio",
+      "operator": "ASTRON",
+      "bortle": 4,
+      "telescopes": "14 × 25 m dishes, Apertif phased-array-feed upgrade",
+      "description": "Westerbork is one of Europe's classic synthesis radio arrays and remains important for pulsars, transients, and large-area surveys.",
+      "history": "Commissioned in 1970 after the success of the Dwingeloo telescope, WSRT became a cornerstone of Dutch radio astronomy.",
+      "website": "https://www.astron.nl/telescopes/wsrt-apertif/"
+    },
+    {
+      "id": "lofar-core",
+      "name": "LOFAR Core",
+      "location": "Exloo, Drenthe, Netherlands",
+      "coords": [
+        52.9088,
+        6.8699
+      ],
+      "altitude_m": 15,
+      "founded": 2010,
+      "type": "Radio",
+      "operator": "ASTRON / European LOFAR consortium",
+      "bortle": 4,
+      "telescopes": "LOFAR low-band and high-band phased-array stations centered on Superterp",
+      "description": "LOFAR is one of the world's leading low-frequency radio observatories, with its dense core in the Netherlands linked to stations across Europe.",
+      "history": "Brought into operation in the 2010s, LOFAR extended Dutch expertise in aperture synthesis into the digital phased-array era.",
+      "website": "https://www.astron.nl/telescopes/lofar/"
+    },
+    {
+      "id": "onsala-space-observatory",
+      "name": "Onsala Space Observatory",
+      "location": "Onsala Peninsula, Halland, Sweden",
+      "coords": [
+        57.3926,
+        11.9155
+      ],
+      "altitude_m": 13,
+      "founded": 1949,
+      "type": "Radio",
+      "operator": "Chalmers University of Technology",
+      "bortle": 5,
+      "telescopes": "20 m radio telescope, 25 m telescope, geodetic VLBI and millimeter instruments",
+      "description": "Onsala is Sweden's national observatory and an important Nordic center for radio astronomy and geodesy.",
+      "history": "Founded after World War II on the Swedish west coast, Onsala became a national hub for radio astronomy and Earth-orientation measurements.",
+      "website": "https://www.oso.chalmers.se/"
+    },
+    {
+      "id": "asiago-astrophysical-observatory",
+      "name": "Asiago Astrophysical Observatory",
+      "location": "Asiago and Cima Ekar, Veneto, Italy",
+      "coords": [
+        45.8486,
+        11.573
+      ],
+      "altitude_m": 1366,
+      "founded": 1942,
+      "type": "Research (multi-observatory site)",
+      "operator": "University of Padua / INAF",
+      "bortle": 3,
+      "telescopes": "Galileo 1.22 m, Copernico 1.82 m, Schmidt telescopes",
+      "description": "Asiago is Italy's best-known mountain optical observatory and a long-time center for stellar, supernova, and minor-planet work.",
+      "history": "The University of Padua developed Asiago during World War II and later expanded to Cima Ekar for darker skies and larger telescopes.",
+      "website": "https://www.oapd.inaf.it/index.php/en/observatories/asiago-astrophysical-observatory"
+    },
+    {
+      "id": "arcetri-observatory",
+      "name": "Arcetri Observatory",
+      "location": "Arcetri, Florence, Italy",
+      "coords": [
+        43.75,
+        11.2556
+      ],
+      "altitude_m": 75,
+      "founded": 1872,
+      "type": "Research",
+      "operator": "INAF - Osservatorio Astrofisico di Arcetri",
+      "bortle": 7,
+      "telescopes": "Historic refractors and solar instruments; associated modern labs and support facilities",
+      "description": "Arcetri is one of Italy's classic observatories and a major center for astrophysics, instrumentation, and solar physics.",
+      "history": "The observatory was founded after Italian unification as a new national scientific institution.",
+      "website": "https://www.arcetri.inaf.it/en/"
+    },
+    {
+      "id": "loiano-observatory",
+      "name": "Loiano Observatory",
+      "location": "Mount Loiano, Emilia-Romagna, Italy",
+      "coords": [
+        44.2581,
+        11.3389
+      ],
+      "altitude_m": 785,
+      "founded": 1936,
+      "type": "University / Educational",
+      "operator": "INAF - Bologna Observatory",
+      "bortle": 4,
+      "telescopes": "Cassini Telescope 1.52 m, historic Schmidt telescope",
+      "description": "Loiano is the principal mountain observing station of the Bologna observatory and remains active for imaging and spectroscopy.",
+      "history": "The station was established in the Apennines to escape the poor conditions of urban Bologna.",
+      "website": "https://www.oas.inaf.it/en/infrastructures/loiano-observatory/"
+    },
+    {
+      "id": "campo-imperatore-observatory",
+      "name": "Campo Imperatore Observatory",
+      "location": "Campo Imperatore, Abruzzo, Italy",
+      "coords": [
+        42.4406,
+        13.5541
+      ],
+      "altitude_m": 2130,
+      "founded": 1965,
+      "type": "Research",
+      "operator": "INAF - Rome Astronomical Observatory",
+      "bortle": 2,
+      "telescopes": "AZT-24 1.1 m infrared telescope, Schmidt telescope, robotic facilities",
+      "description": "Campo Imperatore is a high Apennine site known for infrared observations and time-domain follow-up.",
+      "history": "The Rome Observatory established the site in the 1960s on the Gran Sasso plateau.",
+      "website": "https://www.oa-roma.inaf.it/en/observing-stations-and-telescopes/campo-imperatore-observatory/"
+    },
+    {
+      "id": "sardinia-radio-telescope",
+      "name": "Sardinia Radio Telescope",
+      "location": "Pranu Sanguni, Sardinia, Italy",
+      "coords": [
+        39.4931,
+        9.2452
+      ],
+      "altitude_m": 672,
+      "founded": 2013,
+      "type": "Radio",
+      "operator": "INAF",
+      "bortle": 3,
+      "telescopes": "SRT 64 m fully steerable dish",
+      "description": "The Sardinia Radio Telescope is one of Europe's newest large single-dish radio telescopes.",
+      "history": "Planned as a major Italian national facility, SRT entered scientific use in the 2010s.",
+      "website": "https://www.srt.inaf.it/"
+    },
+    {
+      "id": "medicina-radio-observatory",
+      "name": "Medicina Radio Observatory",
+      "location": "Medicina, Emilia-Romagna, Italy",
+      "coords": [
+        44.5205,
+        11.6469
+      ],
+      "altitude_m": 25,
+      "founded": 1965,
+      "type": "Radio",
+      "operator": "INAF",
+      "bortle": 5,
+      "telescopes": "32 m dish, Northern Cross array",
+      "description": "Medicina is one of Italy's classic radio astronomy sites and home to the distinctive Northern Cross antenna system.",
+      "history": "Developed in the 1960s near Bologna, Medicina became central to Italian radio astronomy and technical development.",
+      "website": "https://www.ira.inaf.it/en/medicina/"
+    },
+    {
+      "id": "noto-radio-observatory",
+      "name": "Noto Radio Observatory",
+      "location": "Noto, Sicily, Italy",
+      "coords": [
+        36.8759,
+        14.989
+      ],
+      "altitude_m": 30,
+      "founded": 1988,
+      "type": "Radio",
+      "operator": "INAF",
+      "bortle": 4,
+      "telescopes": "32 m radio telescope",
+      "description": "Noto is Sicily's major radio astronomy site and an important southern node in European VLBI.",
+      "history": "The station was developed in the late 1980s as Italian radio astronomy expanded into a national network.",
+      "website": "https://www.ira.inaf.it/en/noto/"
+    },
+    {
+      "id": "special-astrophysical-observatory",
+      "name": "Special Astrophysical Observatory",
+      "location": "Nizhny Arkhyz, Karachay-Cherkessia, Russia",
+      "coords": [
+        43.653,
+        41.4412
+      ],
+      "altitude_m": 2070,
+      "founded": 1966,
+      "type": "Research",
+      "operator": "Russian Academy of Sciences",
+      "bortle": 2,
+      "telescopes": "BTA-6 6 m telescope, RATAN-600 radio telescope nearby",
+      "description": "SAO RAS hosts the BTA-6, for many years the world's largest optical telescope, and the giant RATAN-600 radio telescope in the same scientific complex.",
+      "history": "The Soviet Union founded the observatory in the Caucasus to build a world-leading large telescope center.",
+      "website": "https://www.sao.ru/"
+    },
+    {
+      "id": "crimean-astrophysical-observatory",
+      "name": "Crimean Astrophysical Observatory",
+      "location": "Nauchnyi, Crimea, Ukraine",
+      "coords": [
+        44.725,
+        34.014
+      ],
+      "altitude_m": 600,
+      "founded": 1945,
+      "type": "Research",
+      "operator": "Crimean Astrophysical Observatory",
+      "bortle": 4,
+      "telescopes": "2.6 m Shajn reflector, 1.25 m AZT-11, solar telescopes, gamma-ray instruments",
+      "description": "CrAO is one of Eastern Europe's largest observatories and is especially known for stellar and solar physics.",
+      "history": "The observatory was reorganized after wartime destruction, building a major postwar research center in Crimea.",
+      "website": "https://crao.ru/"
+    },
+    {
+      "id": "abastumani-astrophysical-observatory",
+      "name": "Abastumani Astrophysical Observatory",
+      "location": "Mount Kanobili, Samtskhe-Javakheti, Georgia",
+      "coords": [
+        41.755,
+        42.819
+      ],
+      "altitude_m": 1700,
+      "founded": 1932,
+      "type": "Research",
+      "operator": "Ilia State University",
+      "bortle": 2,
+      "telescopes": "70 cm Maksutov, 1.25 m reflector, satellite laser ranging and smaller telescopes",
+      "description": "Abastumani is Georgia's principal mountain observatory and one of the classic observatory sites of the Caucasus.",
+      "history": "Founded in 1932, Abastumani grew around the work of Evgeni Kharadze and later became the core of Georgian astrophysics.",
+      "website": "https://www.iliauni.edu.ge/en/siaxleebi-8/news-27/ilia-state-university-abastumani-astrophysical-observatory.page"
+    },
+    {
+      "id": "byurakan-observatory",
+      "name": "Byurakan Astrophysical Observatory",
+      "location": "Mount Aragats foothills, Aragatsotn, Armenia",
+      "coords": [
+        40.3333,
+        44.2719
+      ],
+      "altitude_m": 1405,
+      "founded": 1946,
+      "type": "Research",
+      "operator": "NAS RA Byurakan Astrophysical Observatory",
+      "bortle": 3,
+      "telescopes": "2.6 m telescope, 1 m Schmidt, 52 in Schmidt, 2.6 m / 1 m class instruments",
+      "description": "Byurakan is famous for the Markarian survey, which identified hundreds of ultraviolet-excess galaxies and active galactic nuclei.",
+      "history": "Viktor Ambartsumian founded Byurakan in 1946 and turned it into one of the Soviet Union's most influential astrophysical centers.",
+      "website": "https://www.bao.am/"
+    },
+    {
+      "id": "tubitak-national-observatory",
+      "name": "TÜBİTAK National Observatory",
+      "location": "Bakırlıtepe, Antalya Province, Türkiye",
+      "coords": [
+        36.8242,
+        30.3356
+      ],
+      "altitude_m": 2500,
+      "founded": 1997,
+      "type": "Research",
+      "operator": "TÜBİTAK",
+      "bortle": 3,
+      "telescopes": "RTT150 1.5 m, T100 1 m, T60 0.6 m, ROTSE-III 0.45 m",
+      "description": "Bakırlıtepe is Türkiye's main national optical observatory and the country's highest major astronomy site.",
+      "history": "The observatory opened in the 1990s after extensive site testing in the Taurus Mountains.",
+      "website": "https://tug.tubitak.gov.tr/en"
+    },
+    {
+      "id": "wise-observatory",
+      "name": "Wise Observatory",
+      "location": "Negev Desert, Israel",
+      "coords": [
+        30.5958,
+        34.7633
+      ],
+      "altitude_m": 875,
+      "founded": 1971,
+      "type": "Research",
+      "operator": "Tel Aviv University",
+      "bortle": 2,
+      "telescopes": "1 m telescope, C28 automated telescopes, wide-field survey instruments",
+      "description": "Wise Observatory is Israel's principal optical observatory and a leading Near East site for time-domain astronomy.",
+      "history": "Tel Aviv University established the observatory in the Negev in 1971 to escape coastal light pollution.",
+      "website": "https://wise.tau.ac.il/"
+    },
+    {
+      "id": "kottamia-astronomical-observatory",
+      "name": "Kottamia Astronomical Observatory",
+      "location": "Kottamia, Cairo Governorate, Egypt",
+      "coords": [
+        29.9328,
+        31.8278
+      ],
+      "altitude_m": 476,
+      "founded": 1964,
+      "type": "Research",
+      "operator": "National Research Institute of Astronomy and Geophysics",
+      "bortle": 4,
+      "telescopes": "Kottamia 74 in reflector, Schmidt camera, solar and geodetic instruments",
+      "description": "Kottamia houses one of the largest telescopes in the Arab world, the 74-inch reflector.",
+      "history": "The site was developed by NRIAG in the 1960s as a successor to earlier Egyptian observational programs at Helwan.",
+      "website": "https://www.nriag.sci.eg/"
+    },
+    {
+      "id": "oukaimeden-observatory",
+      "name": "Oukaimeden Observatory",
+      "location": "Jbel Oukaimeden, Al Haouz, Morocco",
+      "coords": [
+        31.2069,
+        -7.865
+      ],
+      "altitude_m": 2750,
+      "founded": 2007,
+      "type": "Research",
+      "operator": "Cadi Ayyad University / Oukaimeden Observatory",
+      "bortle": 2,
+      "telescopes": "TRAPPIST-North 0.6 m, MOSS 0.5 m, OWL-Net and time-domain instruments",
+      "description": "Oukaimeden is Morocco's highest major astronomy site and one of the best dark-sky locations in North Africa.",
+      "history": "The observatory was established in the High Atlas in the 2000s after site testing showed excellent conditions.",
+      "website": "https://oukaimedenobservatory.uca.ma/"
+    },
+    {
+      "id": "sutherland-observatory",
+      "name": "Sutherland Observatory",
+      "location": "Sutherland, Northern Cape, South Africa",
+      "coords": [
+        -32.3794,
+        20.8107
+      ],
+      "altitude_m": 1798,
+      "founded": 1973,
+      "type": "Research (multi-observatory site)",
+      "operator": "South African Astronomical Observatory",
+      "bortle": 1,
+      "telescopes": "Southern African Large Telescope 10 m, 1.9 m Radcliffe, Lesedi 1 m, IRSF 1.4 m, MONET and smaller telescopes",
+      "description": "Sutherland is South Africa's premier optical site and home to SALT, the largest optical telescope in the southern hemisphere by mirror area.",
+      "history": "The South African Astronomical Observatory consolidated operations at Sutherland in the 1970s as city skies worsened around Cape Town.",
+      "website": "https://www.saao.ac.za/"
+    },
+    {
+      "id": "hartebeesthoek-radio-astronomy-observatory",
+      "name": "Hartebeesthoek Radio Astronomy Observatory",
+      "location": "Hartebeesthoek, Gauteng, South Africa",
+      "coords": [
+        -25.8897,
+        27.6854
+      ],
+      "altitude_m": 1415,
+      "founded": 1961,
+      "type": "Radio",
+      "operator": "South African Radio Astronomy Observatory",
+      "bortle": 5,
+      "telescopes": "26 m radio telescope, VLBI and geodetic antennas",
+      "description": "HartRAO is South Africa's classic radio astronomy site and a major African node for VLBI and geodesy.",
+      "history": "Originally built as a NASA deep-space tracking station in 1961, the site later changed into a radio astronomy observatory.",
+      "website": "https://www.sarao.ac.za/about/observatories/hartebeesthoek-radio-astronomy-observatory/"
+    },
+    {
+      "id": "meerkat-observatory",
+      "name": "MeerKAT Observatory",
+      "location": "Karoo, Northern Cape, South Africa",
+      "coords": [
+        -30.713,
+        21.443
+      ],
+      "altitude_m": 1050,
+      "founded": 2018,
+      "type": "Radio",
+      "operator": "South African Radio Astronomy Observatory",
+      "bortle": 1,
+      "telescopes": "64 × 13.5 m dishes",
+      "description": "MeerKAT is the most powerful radio telescope in the southern hemisphere and one of the world's premier interferometers.",
+      "history": "Commissioned as an SKA precursor, MeerKAT entered science operations in 2018 and rapidly exceeded expectations for sensitivity and image fidelity.",
+      "website": "https://www.sarao.ac.za/science-engineering/meerkat/"
+    },
+    {
+      "id": "hess-observatory",
+      "name": "H.E.S.S. Observatory",
+      "location": "Khomas Highlands, Namibia",
+      "coords": [
+        -23.2718,
+        16.5
+      ],
+      "altitude_m": 1800,
+      "founded": 2004,
+      "type": "Research",
+      "operator": "H.E.S.S. collaboration",
+      "bortle": 1,
+      "telescopes": "4 × 12 m Cherenkov telescopes plus 28 m CT5",
+      "description": "H.E.S.S. is one of the world's leading very-high-energy gamma-ray observatories and transformed the map of the TeV sky.",
+      "history": "The array began with four telescopes in 2004 and later added the giant CT5 telescope for lower-energy sensitivity.",
+      "website": "https://www.mpi-hd.mpg.de/hfm/HESS/"
+    },
+    {
+      "id": "boyden-observatory",
+      "name": "Boyden Observatory",
+      "location": "Masilonyana, Free State, South Africa",
+      "coords": [
+        -29.048,
+        26.404
+      ],
+      "altitude_m": 1382,
+      "founded": 1927,
+      "type": "Historic / Museum",
+      "operator": "University of the Free State",
+      "bortle": 3,
+      "telescopes": "Boyden 1.52 m reflector, historic refractors and outreach telescopes",
+      "description": "Boyden was once Harvard's principal southern observatory and remains an important South African heritage site.",
+      "history": "Harvard moved operations from Peru and developed Boyden in South Africa in the 1920s.",
+      "website": "https://www.ufs.ac.za/boyden"
+    },
+    {
+      "id": "entoto-observatory",
+      "name": "Entoto Observatory",
+      "location": "Entoto Mountains, Addis Ababa, Ethiopia",
+      "coords": [
+        9.061,
+        38.7619
+      ],
+      "altitude_m": 3200,
+      "founded": 2013,
+      "type": "Research",
+      "operator": "Ethiopian Space Science and Geospatial Institute",
+      "bortle": 4,
+      "telescopes": "2 × 1 m telescopes",
+      "description": "Entoto is East Africa's first major optical observatory and Ethiopia's flagship astronomy site.",
+      "history": "Opened in 2013 above Addis Ababa, Entoto symbolized the rapid development of astronomy in Africa beyond traditional centers.",
+      "website": "https://www.essgi.gov.et/"
+    },
+    {
+      "id": "cerro-paranal-observatory",
+      "name": "Paranal Observatory",
+      "location": "Cerro Paranal, Antofagasta Region, Chile",
+      "coords": [
+        -24.6274,
+        -70.405
+      ],
+      "altitude_m": 2635,
+      "founded": 1998,
+      "type": "Research (multi-observatory site)",
+      "operator": "European Southern Observatory",
+      "bortle": 1,
+      "telescopes": "VLT 4 × 8.2 m, VLTI 4 × 1.8 m ATs, VISTA 4.1 m, VST 2.6 m",
+      "description": "Paranal is one of the world's foremost optical-infrared observatories and ESO's flagship site.",
+      "history": "ESO developed Paranal in the Atacama Desert after decades of site testing, with first VLT science in the late 1990s.",
+      "website": "https://www.eso.org/public/teles-instr/paranal-observatory/"
+    },
+    {
+      "id": "llano-de-chajnantor-observatory",
+      "name": "Llano de Chajnantor Observatory",
+      "location": "Llano de Chajnantor, Antofagasta Region, Chile",
+      "coords": [
+        -23.029,
+        -67.755
+      ],
+      "altitude_m": 5000,
+      "founded": 2003,
+      "type": "Research (multi-observatory site)",
+      "operator": "ESO / NAOJ / NRAO / multiple collaborations",
+      "bortle": 1,
+      "telescopes": "ALMA 66 antennas, APEX 12 m, other mm/submm facilities",
+      "description": "At 5,000 meters on the Chajnantor plateau, this is the world's premier millimeter-submillimeter observatory site.",
+      "history": "APEX opened in 2003 as a pathfinder, and ALMA began early science in the 2010s after a massive international build effort.",
+      "website": "https://almascience.eso.org/about-alma/alma-site"
+    },
+    {
+      "id": "la-silla-observatory",
+      "name": "La Silla Observatory",
+      "location": "La Silla, Coquimbo Region, Chile",
+      "coords": [
+        -29.2567,
+        -70.7346
+      ],
+      "altitude_m": 2347,
+      "founded": 1969,
+      "type": "Research (multi-observatory site)",
+      "operator": "European Southern Observatory",
+      "bortle": 1,
+      "telescopes": "ESO 3.6 m, NTT 3.58 m, MPG/ESO 2.2 m, TRAPPIST, Euler 1.2 m, robotic telescopes",
+      "description": "La Silla was ESO's first world-class observatory and remains a highly productive site for exoplanets, transients, and imaging.",
+      "history": "Opened in 1969, La Silla established ESO as a frontier observatory operator in Chile.",
+      "website": "https://www.eso.org/public/teles-instr/lasilla/"
+    },
+    {
+      "id": "cerro-tololo-inter-american-observatory",
+      "name": "Cerro Tololo Inter-American Observatory",
+      "location": "Cerro Tololo, Coquimbo Region, Chile",
+      "coords": [
+        -30.169,
+        -70.8065
+      ],
+      "altitude_m": 2200,
+      "founded": 1965,
+      "type": "Research (multi-observatory site)",
+      "operator": "NSF NOIRLab / AURA",
+      "bortle": 2,
+      "telescopes": "Víctor M. Blanco 4 m, SMARTS 1.5 m and 1.3 m, SOAR nearby partner access",
+      "description": "CTIO is one of the great Southern Hemisphere optical observatory sites and home to the Blanco 4-meter telescope.",
+      "history": "The observatory was created as an international U.S.-led southern site in the 1960s.",
+      "website": "https://noirlab.edu/public/science/observing-noirlab/ctio/"
+    },
+    {
+      "id": "cerro-pachon-observatory",
+      "name": "Cerro Pachón Observatory",
+      "location": "Cerro Pachón, Coquimbo Region, Chile",
+      "coords": [
+        -30.2407,
+        -70.7366
+      ],
+      "altitude_m": 2715,
+      "founded": 2000,
+      "type": "Research (multi-observatory site)",
+      "operator": "AURA / Rubin Observatory / international partners",
+      "bortle": 1,
+      "telescopes": "Gemini South 8.1 m, SOAR 4.1 m, Vera C. Rubin Observatory 8.4 m",
+      "description": "Cerro Pachón is a top-tier Chilean summit that combines Gemini South, SOAR, and the Rubin Observatory.",
+      "history": "The site's superb seeing led to development around the turn of the millennium, first with Gemini South and SOAR.",
+      "website": "https://www.gemini.edu/"
+    },
+    {
+      "id": "las-campanas-observatory",
+      "name": "Las Campanas Observatory",
+      "location": "Las Campanas, Atacama Region, Chile",
+      "coords": [
+        -29.0033,
+        -70.7
+      ],
+      "altitude_m": 2380,
+      "founded": 1969,
+      "type": "Research (multi-observatory site)",
+      "operator": "Carnegie Observatories",
+      "bortle": 1,
+      "telescopes": "Magellan Baade and Clay 6.5 m, du Pont 2.5 m, Swope 1 m, GMT site nearby",
+      "description": "Las Campanas is Carnegie's flagship southern site and one of the best optical observing locations on Earth.",
+      "history": "Carnegie established the observatory in 1969 as its main southern base after the Mount Wilson and Palomar era.",
+      "website": "https://obs.carnegiescience.edu/lco"
+    },
+    {
+      "id": "ckoirama-observatory",
+      "name": "Ckoirama Observatory",
+      "location": "Cerro Armazones foothills, Antofagasta Region, Chile",
+      "coords": [
+        -24.0893,
+        -69.9306
+      ],
+      "altitude_m": 965,
+      "founded": 2012,
+      "type": "Research",
+      "operator": "Universidad de Antofagasta",
+      "bortle": 2,
+      "telescopes": "0.6 m infrared-optimized telescope and survey instruments",
+      "description": "Ckoirama is Universidad de Antofagasta's desert observatory in one of the driest sky regions on Earth.",
+      "history": "The observatory was developed in the 2010s as Chile expanded national access to world-class observing regions beyond the largest international facilities.",
+      "website": "https://www.astro.uantof.cl/ckoirama/"
+    },
+    {
+      "id": "san-pedro-martir-observatory",
+      "name": "San Pedro Mártir Observatory",
+      "location": "Sierra San Pedro Mártir, Baja California, Mexico",
+      "coords": [
+        31.0458,
+        -115.4636
+      ],
+      "altitude_m": 2830,
+      "founded": 1971,
+      "type": "Research (multi-observatory site)",
+      "operator": "UNAM",
+      "bortle": 2,
+      "telescopes": "2.12 m, 1.5 m, 0.84 m telescopes, slated national 6.5 m project",
+      "description": "San Pedro Mártir is Mexico's principal optical observatory and one of the best dark-sky sites in North America.",
+      "history": "UNAM developed the site in the 1970s after extensive testing in Baja California.",
+      "website": "https://www.astrossp.unam.mx/"
+    },
+    {
+      "id": "guillermo-haro-observatory",
+      "name": "Guillermo Haro Observatory",
+      "location": "Sierra La Mariquita, Sonora, Mexico",
+      "coords": [
+        30.955,
+        -110.384
+      ],
+      "altitude_m": 2480,
+      "founded": 1987,
+      "type": "Research",
+      "operator": "National Institute of Astrophysics, Optics and Electronics",
+      "bortle": 2,
+      "telescopes": "2.1 m telescope",
+      "description": "Guillermo Haro Observatory is a major Mexican mountain site best known for the 2.1-meter telescope near Cananea.",
+      "history": "The observatory was developed by INAOE in honor of Guillermo Haro, a leading Mexican astronomer.",
+      "website": "https://www.inaoep.mx/"
+    },
+    {
+      "id": "large-millimeter-telescope",
+      "name": "Large Millimeter Telescope Alfonso Serrano",
+      "location": "Sierra Negra, Puebla, Mexico",
+      "coords": [
+        18.985,
+        -97.314
+      ],
+      "altitude_m": 4600,
+      "founded": 2011,
+      "type": "Radio",
+      "operator": "INAOE / University of Massachusetts Amherst",
+      "bortle": 1,
+      "telescopes": "LMT 50 m single dish",
+      "description": "The LMT is the largest single-aperture steerable millimeter telescope in the world.",
+      "history": "The U.S.-Mexican project opened in stages in the 2010s after a challenging high-altitude construction campaign.",
+      "website": "https://lmtgtm.org/"
+    },
+    {
+      "id": "dominion-radio-astrophysical-observatory",
+      "name": "Dominion Radio Astrophysical Observatory",
+      "location": "Penticton, British Columbia, Canada",
+      "coords": [
+        49.3228,
+        -119.6235
+      ],
+      "altitude_m": 545,
+      "founded": 1960,
+      "type": "Radio",
+      "operator": "National Research Council Canada",
+      "bortle": 3,
+      "telescopes": "Synthesis Telescope 7 dishes, 26 m telescope, CHIME cylinders",
+      "description": "DRAO is Canada's principal radio astronomy site and now hosts CHIME, one of the decade's most influential instruments for fast radio bursts and cosmology.",
+      "history": "Developed in the early 1960s, DRAO built Canadian expertise in radio synthesis imaging.",
+      "website": "https://nrc.canada.ca/en/research-development/nrc-facilities/dominion-radio-astrophysical-observatory"
+    },
+    {
+      "id": "casleo",
+      "name": "Complejo Astronómico El Leoncito",
+      "location": "El Leoncito, San Juan Province, Argentina",
+      "coords": [
+        -31.7983,
+        -69.2956
+      ],
+      "altitude_m": 2552,
+      "founded": 1986,
+      "type": "Research (multi-observatory site)",
+      "operator": "CONICET / universities consortium",
+      "bortle": 2,
+      "telescopes": "Jorge Sahade 2.15 m, Helen Sawyer Hogg 0.6 m, solar and support telescopes",
+      "description": "CASLEO is Argentina's main modern mountain observatory and sits in the exceptionally clear skies of El Leoncito National Park.",
+      "history": "Opened in 1986 as a joint national project, CASLEO became the core of Argentine optical astronomy after the Bosque Alegre era.",
+      "website": "https://casleo.conicet.gov.ar/"
+    },
+    {
+      "id": "pico-dos-dias-observatory",
+      "name": "Pico dos Dias Observatory",
+      "location": "Brazópolis, Minas Gerais, Brazil",
+      "coords": [
+        -22.5344,
+        -45.5825
+      ],
+      "altitude_m": 1864,
+      "founded": 1980,
+      "type": "Research",
+      "operator": "Laboratório Nacional de Astrofísica",
+      "bortle": 3,
+      "telescopes": "Perkin-Elmer 1.6 m, 0.6 m Zeiss, robotic and support telescopes",
+      "description": "Pico dos Dias is Brazil's principal optical observatory and home to the country's largest operational optical telescope.",
+      "history": "The national mountain site entered operation in 1980 to provide Brazil a modern dark-sky observatory away from Rio de Janeiro.",
+      "website": "https://www.gov.br/lna/"
+    },
+    {
+      "id": "itapetinga-radio-observatory",
+      "name": "Itapetinga Radio Observatory",
+      "location": "Atibaia, São Paulo, Brazil",
+      "coords": [
+        -23.0058,
+        -46.5708
+      ],
+      "altitude_m": 800,
+      "founded": 1970,
+      "type": "Radio",
+      "operator": "Mackenzie Presbyterian University",
+      "bortle": 5,
+      "telescopes": "13.7 m radio telescope",
+      "description": "Itapetinga is Brazil's best-known radio astronomy site and has a long record of solar, Galactic, and atmospheric observations.",
+      "history": "Established in the 1970s in São Paulo state, the observatory supported Brazilian work in radio astronomy before larger new facilities emerged elsewhere in Latin America.",
+      "website": "https://www.mackenzie.br/"
+    },
+    {
+      "id": "llano-del-hato-observatory",
+      "name": "National Astronomical Observatory of Venezuela",
+      "location": "Llano del Hato, Mérida, Venezuela",
+      "coords": [
+        8.7894,
+        -70.8667
+      ],
+      "altitude_m": 3600,
+      "founded": 1971,
+      "type": "Research",
+      "operator": "CIDA",
+      "bortle": 2,
+      "telescopes": "1 m Schmidt, 1 m reflector, 65 cm and 50 cm telescopes",
+      "description": "At 3,600 meters, Llano del Hato is one of the highest professional observatories in the Americas.",
+      "history": "The observatory was established in the Andes in the early 1970s by CIDA.",
+      "website": "https://cida.gob.ve/"
+    },
+    {
+      "id": "mount-john-university-observatory",
+      "name": "Mount John University Observatory",
+      "location": "Tekapo, South Island, New Zealand",
+      "coords": [
+        -43.9867,
+        170.465
+      ],
+      "altitude_m": 1030,
+      "founded": 1965,
+      "type": "Research (multi-observatory site)",
+      "operator": "University of Canterbury / international partners",
+      "bortle": 2,
+      "telescopes": "McLellan 1 m, MOA 1.8 m, 0.6 m Boller and Chivens, HERCULES spectrograph",
+      "description": "Mount John anchors New Zealand astronomy under the Mackenzie dark-sky reserve and is famous for gravitational microlensing searches by the MOA project.",
+      "history": "The observatory opened in 1965 above Lake Tekapo as a joint university project.",
+      "website": "https://www.canterbury.ac.nz/science/schools-and-departments/physics-and-astronomy/research/observatories-and-facilities/mount-john-observatory"
+    },
+    {
+      "id": "warkworth-radio-observatory",
+      "name": "Warkworth Radio Observatory",
+      "location": "Warkworth, Auckland Region, New Zealand",
+      "coords": [
+        -36.433,
+        174.66
+      ],
+      "altitude_m": 80,
+      "founded": 2008,
+      "type": "Radio",
+      "operator": "Auckland University of Technology",
+      "bortle": 4,
+      "telescopes": "12 m and 30 m radio telescopes",
+      "description": "Warkworth is New Zealand's main radio astronomy site and a key southern VLBI station.",
+      "history": "Established in the 2000s by AUT, the observatory quickly became a valuable long-baseline node because of New Zealand's geographic position.",
+      "website": "https://www.aut.ac.nz/space/warkworth-observatory"
+    },
+    {
+      "id": "siding-spring-observatory",
+      "name": "Siding Spring Observatory",
+      "location": "Siding Spring Mountain, New South Wales, Australia",
+      "coords": [
+        -31.2734,
+        149.0612
+      ],
+      "altitude_m": 1165,
+      "founded": 1964,
+      "type": "Research (multi-observatory site)",
+      "operator": "Australian National University / multiple partners",
+      "bortle": 2,
+      "telescopes": "Anglo-Australian Telescope 3.9 m, UK Schmidt 1.2 m, SkyMapper 1.35 m, Uppsala 0.5 m, Las Cumbres network",
+      "description": "Siding Spring is mainland Australia's premier optical observatory and the country's great southern survey site.",
+      "history": "Developed in the 1960s after Australian and British site testing, Siding Spring became the home of the Anglo-Australian Observatory.",
+      "website": "https://rsaa.anu.edu.au/observatories/siding-spring-observatory"
+    },
+    {
+      "id": "parkes-observatory",
+      "name": "Parkes Observatory",
+      "location": "Parkes, New South Wales, Australia",
+      "coords": [
+        -32.9984,
+        148.2637
+      ],
+      "altitude_m": 414,
+      "founded": 1961,
+      "type": "Radio",
+      "operator": "CSIRO",
+      "bortle": 2,
+      "telescopes": "Murriyang 64 m dish, support antennas",
+      "description": "Parkes is one of the world's most famous radio observatories and played a celebrated role relaying television from the Apollo 11 Moon landing.",
+      "history": "Opened in 1961, Parkes quickly became Australia's radio-astronomy icon.",
+      "website": "https://www.csiro.au/en/about/facilities-collections/atnf/parkes-radio-telescope"
+    },
+    {
+      "id": "australia-telescope-compact-array",
+      "name": "Australia Telescope Compact Array",
+      "location": "Narrabri, New South Wales, Australia",
+      "coords": [
+        -30.3129,
+        149.5502
+      ],
+      "altitude_m": 236,
+      "founded": 1988,
+      "type": "Radio",
+      "operator": "CSIRO",
+      "bortle": 2,
+      "telescopes": "6 × 22 m antennas on east-west tracks",
+      "description": "ATCA is Australia's premier synthesis radio array for centimeter-wave astronomy.",
+      "history": "Commissioned in the late 1980s, ATCA extended CSIRO's radio heritage beyond single-dish work at Parkes.",
+      "website": "https://www.csiro.au/en/about/facilities-collections/atnf/atca"
+    },
+    {
+      "id": "mopra-observatory",
+      "name": "Mopra Observatory",
+      "location": "Mopra, New South Wales, Australia",
+      "coords": [
+        -31.2729,
+        149.0983
+      ],
+      "altitude_m": 866,
+      "founded": 1991,
+      "type": "Radio",
+      "operator": "CSIRO",
+      "bortle": 2,
+      "telescopes": "Mopra 22 m dish",
+      "description": "Mopra was an important southern millimeter and centimeter radio telescope, particularly for molecular-line surveys and Galactic structure work.",
+      "history": "The dish began as part of the Australia Telescope system and later served as a standalone scientific instrument.",
+      "website": ""
+    },
+    {
+      "id": "murchison-radio-astronomy-observatory",
+      "name": "Murchison Radio-astronomy Observatory",
+      "location": "Murchison, Western Australia, Australia",
+      "coords": [
+        -26.7033,
+        116.6708
+      ],
+      "altitude_m": 377,
+      "founded": 2012,
+      "type": "Radio",
+      "operator": "CSIRO / international partners",
+      "bortle": 1,
+      "telescopes": "ASKAP 36 × 12 m, Murchison Widefield Array, SKA-Low precursor infrastructure",
+      "description": "The Murchison site is one of the quietest radio locations on Earth and Australia's key pathfinder complex for the Square Kilometre Array.",
+      "history": "Established in the 2010s in remote Western Australia, the site was purpose-built for the SKA era.",
+      "website": "https://www.csiro.au/en/about/facilities-collections/atnf/murchison-radio-astronomy-observatory"
+    },
+    {
+      "id": "indian-astronomical-observatory",
+      "name": "Indian Astronomical Observatory",
+      "location": "Hanle, Ladakh, India",
+      "coords": [
+        32.7794,
+        78.9642
+      ],
+      "altitude_m": 4500,
+      "founded": 2001,
+      "type": "Research",
+      "operator": "Indian Institute of Astrophysics",
+      "bortle": 1,
+      "telescopes": "Himalayan Chandra Telescope 2 m, GROWTH-India 0.7 m, HAGAR and MACE gamma-ray support nearby",
+      "description": "Hanle is one of the highest professional optical observatory sites in the world and India's darkest major observatory.",
+      "history": "Developed by the Indian Institute of Astrophysics in the early 2000s, Hanle gave India a truly world-class high-altitude observing site.",
+      "website": "https://www.iiap.res.in/iao"
+    },
+    {
+      "id": "devasthal-observatory",
+      "name": "Devasthal Observatory",
+      "location": "Devasthal, Uttarakhand, India",
+      "coords": [
+        29.361,
+        79.6844
+      ],
+      "altitude_m": 2424,
+      "founded": 2010,
+      "type": "Research",
+      "operator": "ARIES",
+      "bortle": 2,
+      "telescopes": "Devasthal Optical Telescope 3.6 m, 1.3 m DFOT, 4 m International Liquid Mirror Telescope",
+      "description": "Devasthal is India's premier modern optical observatory outside Ladakh and hosts the country's largest operational optical telescope.",
+      "history": "ARIES developed the site in Uttarakhand after long seeing studies in the central Himalaya.",
+      "website": "https://www.aries.res.in/"
+    },
+    {
+      "id": "vainu-bappu-observatory",
+      "name": "Vainu Bappu Observatory",
+      "location": "Kavalur, Tamil Nadu, India",
+      "coords": [
+        12.5767,
+        78.8266
+      ],
+      "altitude_m": 725,
+      "founded": 1968,
+      "type": "Research",
+      "operator": "Indian Institute of Astrophysics",
+      "bortle": 3,
+      "telescopes": "VBT 2.34 m, 1.3 m J C Bhattacharyya Telescope, historic refractors",
+      "description": "Kavalur is one of India's classic optical observatories and home to the Vainu Bappu Telescope, long the country's largest optical instrument.",
+      "history": "The observatory was founded by Vainu Bappu in the late 1960s as a national mountain site.",
+      "website": "https://www.iiap.res.in/vbo"
+    },
+    {
+      "id": "udaipur-solar-observatory",
+      "name": "Udaipur Solar Observatory",
+      "location": "Fateh Sagar Lake, Udaipur, Rajasthan, India",
+      "coords": [
+        24.6,
+        73.69
+      ],
+      "altitude_m": 700,
+      "founded": 1975,
+      "type": "Solar",
+      "operator": "Physical Research Laboratory",
+      "bortle": 5,
+      "telescopes": "Solar telescopes and synoptic instruments on island site",
+      "description": "Udaipur Solar Observatory is India's leading dedicated solar observatory and is often compared to Big Bear because of its island-lake location.",
+      "history": "The site was established in 1975 by PRL to provide India with a major solar physics platform.",
+      "website": "https://www.uso.prl.res.in/"
+    },
+    {
+      "id": "giant-metrewave-radio-telescope",
+      "name": "Giant Metrewave Radio Telescope",
+      "location": "Khodad, Maharashtra, India",
+      "coords": [
+        19.0965,
+        74.0497
+      ],
+      "altitude_m": 650,
+      "founded": 1995,
+      "type": "Radio",
+      "operator": "NCRA-TIFR",
+      "bortle": 3,
+      "telescopes": "30 × 45 m dishes",
+      "description": "GMRT is one of the world's most important low-frequency radio arrays and a landmark instrument for cosmology, pulsars, and Galactic astronomy.",
+      "history": "Conceived by Govind Swarup and completed in the 1990s, GMRT gave India a globally competitive radio observatory at meter wavelengths.",
+      "website": "https://gmrt.ncra.tifr.res.in/"
+    },
+    {
+      "id": "ooty-radio-telescope",
+      "name": "Ooty Radio Telescope",
+      "location": "Ooty, Tamil Nadu, India",
+      "coords": [
+        11.385,
+        76.6667
+      ],
+      "altitude_m": 2200,
+      "founded": 1970,
+      "type": "Radio",
+      "operator": "NCRA-TIFR",
+      "bortle": 2,
+      "telescopes": "530 m × 30 m cylindrical radio telescope",
+      "description": "The Ooty Radio Telescope is a distinctive cylindrical paraboloid built on a hill whose slope matches the latitude, allowing simple tracking of the sky.",
+      "history": "Commissioned in 1970 under Govind Swarup, ORT became India's first major radio telescope and a precursor to later national arrays.",
+      "website": "https://rac.ncra.tifr.res.in/"
+    },
+    {
+      "id": "gauribidanur-radio-observatory",
+      "name": "Gauribidanur Radio Observatory",
+      "location": "Gauribidanur, Karnataka, India",
+      "coords": [
+        13.602,
+        77.4479
+      ],
+      "altitude_m": 686,
+      "founded": 1976,
+      "type": "Radio",
+      "operator": "Indian Institute of Astrophysics",
+      "bortle": 3,
+      "telescopes": "Decameter Wave Radio Telescope, Radio Heliograph, GLOSS array",
+      "description": "Gauribidanur is India's main decametric radio astronomy site and is especially important for solar radio bursts and low-frequency heliophysics.",
+      "history": "The site was established in the 1970s to study the Sun and low-frequency cosmic radio sources.",
+      "website": "https://www.iiap.res.in/radio"
+    },
+    {
+      "id": "kodaikanal-solar-observatory",
+      "name": "Kodaikanal Solar Observatory",
+      "location": "Kodaikanal, Tamil Nadu, India",
+      "coords": [
+        10.2317,
+        77.4652
+      ],
+      "altitude_m": 2343,
+      "founded": 1899,
+      "type": "Solar",
+      "operator": "Indian Institute of Astrophysics",
+      "bortle": 3,
+      "telescopes": "Historic solar telescopes, spectroheliographs, white-light patrol instruments",
+      "description": "Kodaikanal is one of the world's classic solar observatories and holds more than a century of solar images, spectroheliograms, and sunspot records.",
+      "history": "Founded in 1899 in the Palani Hills, the observatory became a cornerstone of Indian astrophysics before branching into broader astronomy.",
+      "website": "https://www.iiap.res.in/kso"
+    },
+    {
+      "id": "xinglong-observatory",
+      "name": "Xinglong Observatory",
+      "location": "Xinglong County, Hebei, China",
+      "coords": [
+        40.3933,
+        117.575
+      ],
+      "altitude_m": 900,
+      "founded": 1968,
+      "type": "Research (multi-observatory site)",
+      "operator": "National Astronomical Observatories of China",
+      "bortle": 4,
+      "telescopes": "LAMOST 4 m effective aperture, Xinglong 2.16 m, 1.26 m infrared telescope, Schmidt telescopes",
+      "description": "Xinglong is one of Asia's largest optical observatory sites and home to LAMOST, the giant multi-object spectroscopic survey telescope.",
+      "history": "Founded in 1968, Xinglong became the main mountain observatory of NAOC.",
+      "website": "https://english.nao.cas.cn/Resources2015/Gallery2015/201707/t20170706_179406.html"
+    },
+    {
+      "id": "fast-observatory",
+      "name": "Five-hundred-meter Aperture Spherical Telescope",
+      "location": "Dawodang depression, Guizhou, China",
+      "coords": [
+        25.652,
+        106.8567
+      ],
+      "altitude_m": 1000,
+      "founded": 2016,
+      "type": "Radio",
+      "operator": "National Astronomical Observatories of China",
+      "bortle": 3,
+      "telescopes": "FAST 500 m active spherical radio telescope",
+      "description": "FAST is the world's largest filled-aperture single-dish radio telescope.",
+      "history": "Construction began in 2011 and first light came in 2016, with full operations following in 2020.",
+      "website": "https://fast.bao.ac.cn/"
+    },
+    {
+      "id": "lijiang-observatory",
+      "name": "Lijiang Observatory",
+      "location": "Gaomeigu, Yunnan, China",
+      "coords": [
+        26.6951,
+        100.0292
+      ],
+      "altitude_m": 3193,
+      "founded": 2008,
+      "type": "Research",
+      "operator": "Yunnan Observatories, Chinese Academy of Sciences",
+      "bortle": 2,
+      "telescopes": "2.4 m telescope, SONG-China 1 m, high-resolution spectrographs",
+      "description": "Lijiang's Gaomeigu site is one of China's best optical mountain observatories.",
+      "history": "The observatory was developed in the 2000s in Yunnan's dry highlands to expand Chinese access to better optical seeing.",
+      "website": "http://english.ynao.cas.cn/"
+    },
+    {
+      "id": "delingha-observatory",
+      "name": "Delingha Observatory",
+      "location": "Delingha, Qinghai, China",
+      "coords": [
+        37.373,
+        97.7317
+      ],
+      "altitude_m": 3200,
+      "founded": 1987,
+      "type": "Research",
+      "operator": "Purple Mountain Observatory / Chinese Academy of Sciences",
+      "bortle": 2,
+      "telescopes": "13.7 m millimeter telescope, optical support telescopes, SONG/CSTAR-related facilities",
+      "description": "Delingha is a high-altitude Qinghai site important for millimeter-wave and time-domain observing.",
+      "history": "The site was established in the late 1980s for millimeter astronomy by Purple Mountain Observatory.",
+      "website": "http://english.pmo.cas.cn/"
+    },
+    {
+      "id": "lulin-observatory",
+      "name": "Lulin Observatory",
+      "location": "Lulin Mountain, Nantou County, Taiwan",
+      "coords": [
+        23.4681,
+        120.8736
+      ],
+      "altitude_m": 2862,
+      "founded": 1999,
+      "type": "Research",
+      "operator": "National Central University",
+      "bortle": 2,
+      "telescopes": "Lulin One-meter Telescope, 0.4 m and survey telescopes",
+      "description": "Lulin is Taiwan's main mountain observatory and is best known for transient and minor-planet observations.",
+      "history": "Completed in 1999, Lulin gave Taiwan a dark-sky professional observatory in central mountains far from city lights.",
+      "website": "http://www.lulin.ncu.edu.tw/"
+    },
+    {
+      "id": "thai-national-observatory",
+      "name": "Thai National Observatory",
+      "location": "Doi Inthanon, Chiang Mai Province, Thailand",
+      "coords": [
+        18.5736,
+        98.4869
+      ],
+      "altitude_m": 2457,
+      "founded": 2013,
+      "type": "Research",
+      "operator": "National Astronomical Research Institute of Thailand",
+      "bortle": 2,
+      "telescopes": "2.4 m Ritchey-Chrétien telescope, 1 m and 0.5 m class support telescopes",
+      "description": "On Thailand's highest mountain, TNO is the country's flagship professional observatory and a major Southeast Asian astronomy center.",
+      "history": "NARIT opened the observatory in 2013 after sustained national investment in astronomy.",
+      "website": "https://www.narit.or.th/index.php/en-observing-facilities/thai-national-observatory"
+    },
+    {
+      "id": "bohyunsan-optical-astronomy-observatory",
+      "name": "Bohyunsan Optical Astronomy Observatory",
+      "location": "Bohyeon Mountain, Yeongcheon, South Korea",
+      "coords": [
+        36.1644,
+        128.976
+      ],
+      "altitude_m": 1124,
+      "founded": 1996,
+      "type": "Research",
+      "operator": "Korea Astronomy and Space Science Institute",
+      "bortle": 3,
+      "telescopes": "1.8 m telescope, 1.0 m telescope",
+      "description": "BOAO is South Korea's leading optical observatory and the home of the Bohyunsan 1.8-meter telescope.",
+      "history": "The observatory opened in the 1990s as Korea built national observing infrastructure in dark mountain settings.",
+      "website": "https://www.kasi.re.kr/eng/"
+    },
+    {
+      "id": "taeduk-radio-astronomy-observatory",
+      "name": "Taeduk Radio Astronomy Observatory",
+      "location": "Daejeon, South Korea",
+      "coords": [
+        36.394,
+        127.375
+      ],
+      "altitude_m": 137,
+      "founded": 1977,
+      "type": "Radio",
+      "operator": "Korea Astronomy and Space Science Institute",
+      "bortle": 6,
+      "telescopes": "14 m radio telescope and associated facilities",
+      "description": "TRAO is South Korea's historic radio observatory and a long-running site for molecular-line astronomy.",
+      "history": "The observatory opened in the 1970s near Daejeon and became the country's first major radio astronomy facility.",
+      "website": "https://www.kasi.re.kr/eng/"
+    },
+    {
+      "id": "sobaeksan-optical-astronomy-observatory",
+      "name": "Sobaeksan Optical Astronomy Observatory",
+      "location": "Sobaek Mountains, South Korea",
+      "coords": [
+        36.935,
+        128.456
+      ],
+      "altitude_m": 1383,
+      "founded": 1978,
+      "type": "Research",
+      "operator": "Korea Astronomy and Space Science Institute",
+      "bortle": 3,
+      "telescopes": "61 cm telescope and supporting instruments",
+      "description": "Sobaeksan was South Korea's first mountain optical observatory and remains a significant national heritage science site.",
+      "history": "Established in the late 1970s, Sobaeksan marked Korea's early commitment to professional optical astronomy.",
+      "website": "https://www.kasi.re.kr/eng/"
+    },
+    {
+      "id": "nobeyama-radio-observatory",
+      "name": "Nobeyama Radio Observatory",
+      "location": "Minamimaki, Nagano, Japan",
+      "coords": [
+        35.9423,
+        138.4744
+      ],
+      "altitude_m": 1350,
+      "founded": 1982,
+      "type": "Radio",
+      "operator": "National Astronomical Observatory of Japan",
+      "bortle": 2,
+      "telescopes": "45 m dish, Nobeyama Millimeter Array 6 × 10 m, Radioheliograph 84 × 0.8 m",
+      "description": "Nobeyama was Japan's pioneering millimeter-wave observatory and remains one of the country's classic radio sites.",
+      "history": "NAOJ opened Nobeyama in 1982, and it quickly shaped the development of Japanese radio astronomy.",
+      "website": "https://www.nro.nao.ac.jp/en/"
+    },
+    {
+      "id": "kiso-observatory",
+      "name": "Kiso Observatory",
+      "location": "Mount Ontake foothills, Nagano, Japan",
+      "coords": [
+        35.7972,
+        137.625
+      ],
+      "altitude_m": 1130,
+      "founded": 1974,
+      "type": "Research",
+      "operator": "Institute of Astronomy, University of Tokyo",
+      "bortle": 3,
+      "telescopes": "Schmidt 1.05 m, Tomo-e Gozen ultra-wide-field camera, 1.3 m Araki telescope",
+      "description": "Kiso is famous for wide-field optical surveys and, more recently, high-cadence time-domain imaging with Tomo-e Gozen.",
+      "history": "Opened in 1974 by the University of Tokyo, Kiso became an important survey site in the photographic era.",
+      "website": "https://www.ioa.s.u-tokyo.ac.jp/kisohp/"
+    },
+    {
+      "id": "okayama-astrophysical-observatory",
+      "name": "Okayama Astrophysical Observatory",
+      "location": "Asakuchi, Okayama, Japan",
+      "coords": [
+        34.5763,
+        133.5944
+      ],
+      "altitude_m": 390,
+      "founded": 1960,
+      "type": "Research",
+      "operator": "National Astronomical Observatory of Japan",
+      "bortle": 4,
+      "telescopes": "188 cm reflector, 0.91 m telescope, Seimei Telescope 3.8 m nearby at Kyoto University Okayama site",
+      "description": "Okayama is one of Japan's classic optical observatories and home to the historic 188-centimeter reflector.",
+      "history": "The 188-centimeter telescope entered service in 1960 and for years was East Asia's largest optical telescope.",
+      "website": "https://www.nao.ac.jp/en/access/okayama/"
+    },
+    {
+      "id": "mizusawa-vlbi-observatory",
+      "name": "Mizusawa VLBI Observatory",
+      "location": "Ōshū, Iwate, Japan",
+      "coords": [
+        39.1331,
+        141.1331
+      ],
+      "altitude_m": 90,
+      "founded": 1899,
+      "type": "Radio",
+      "operator": "National Astronomical Observatory of Japan",
+      "bortle": 5,
+      "telescopes": "VERA 20 m antenna, geodetic and VLBI instrumentation",
+      "description": "Mizusawa is one of Japan's most historically important astronomical sites, linking latitude-variation work with the modern VERA VLBI array.",
+      "history": "The observatory originated in the 19th century as part of the International Latitude Service.",
+      "website": "https://www.miz.nao.ac.jp/en/"
+    },
+    {
+      "id": "ondrejov-observatory",
+      "name": "Ondřejov Observatory",
+      "location": "Ondřejov, Central Bohemia, Czech Republic",
+      "coords": [
+        49.912,
+        14.784
+      ],
+      "altitude_m": 500,
+      "founded": 1898,
+      "type": "Research",
+      "operator": "Astronomical Institute of the Czech Academy of Sciences",
+      "bortle": 4,
+      "telescopes": "2 m Perek Telescope, 0.65 m coudé refractor, solar and stellar instruments",
+      "description": "Ondřejov is the Czech Republic's principal observatory and a major Central European center for stellar and solar physics.",
+      "history": "Founded as a private observatory by Josef Jan Frič in 1898, Ondřejov later became the national astronomical institute.",
+      "website": "https://www.asu.cas.cz/en/"
+    },
+    {
+      "id": "klet-observatory",
+      "name": "Kleť Observatory",
+      "location": "Kleť Mountain, South Bohemia, Czech Republic",
+      "coords": [
+        48.862,
+        14.286
+      ],
+      "altitude_m": 1070,
+      "founded": 1957,
+      "type": "Research",
+      "operator": "South Bohemian Observatory and Planetarium",
+      "bortle": 3,
+      "telescopes": "1.06 m KLENOT, 0.57 m and smaller survey telescopes",
+      "description": "Kleť is internationally known for asteroid and comet astrometry, particularly near-Earth object follow-up.",
+      "history": "The observatory opened in 1957 and later specialized in minor planets as CCD astrometry matured.",
+      "website": "https://www.klet.org/"
+    },
+    {
+      "id": "skalnate-pleso-observatory",
+      "name": "Skalnaté Pleso Observatory",
+      "location": "High Tatras, Slovakia",
+      "coords": [
+        49.189,
+        20.235
+      ],
+      "altitude_m": 1786,
+      "founded": 1943,
+      "type": "Research",
+      "operator": "Astronomical Institute of the Slovak Academy of Sciences",
+      "bortle": 2,
+      "telescopes": "1.3 m reflector, 0.61 m and 0.6 m telescopes, coronagraph-associated work",
+      "description": "Skalnaté Pleso is Slovakia's best-known mountain observatory and a classic High Tatras site for comet, asteroid, and solar-system observing.",
+      "history": "Established during World War II in the Tatras, the observatory became central to Slovak astronomy and public engagement.",
+      "website": "https://www.astro.sk/"
+    },
+    {
+      "id": "piwnice-observatory",
+      "name": "Piwnice Observatory",
+      "location": "Piwnice near Toruń, Poland",
+      "coords": [
+        53.095,
+        18.56
+      ],
+      "altitude_m": 87,
+      "founded": 1945,
+      "type": "Research (multi-observatory site)",
+      "operator": "Nicolaus Copernicus University",
+      "bortle": 4,
+      "telescopes": "32 m radio telescope, 90 cm Schmidt-Cassegrain, optical teaching telescopes",
+      "description": "Piwnice is Poland's principal university observatory complex and combines optical and radio astronomy on one rural campus.",
+      "history": "Founded after World War II by Nicolaus Copernicus University, the observatory became central to modern Polish observational astronomy.",
+      "website": "https://www.astri.umk.pl/"
+    },
+    {
+      "id": "rozhen-observatory",
+      "name": "Rozhen National Astronomical Observatory",
+      "location": "Rozhen, Smolyan Province, Bulgaria",
+      "coords": [
+        41.6925,
+        24.7381
+      ],
+      "altitude_m": 1759,
+      "founded": 1981,
+      "type": "Research",
+      "operator": "Institute of Astronomy, Bulgarian Academy of Sciences",
+      "bortle": 2,
+      "telescopes": "2 m Ritchey-Chrétien-Coudé, 0.6 m Schmidt, 0.5/0.7 m Schmidt",
+      "description": "Rozhen is the largest astronomical observatory in southeastern Europe and Bulgaria's flagship mountain site.",
+      "history": "Opened in 1981 in the Rhodope Mountains, Rozhen represented a major national scientific investment during the late socialist period.",
+      "website": "https://nao-rozhen.org/"
+    },
+    {
+      "id": "shamakhy-astrophysical-observatory",
+      "name": "Shamakhy Astrophysical Observatory",
+      "location": "Pirqulu, Shamakhi District, Azerbaijan",
+      "coords": [
+        40.77,
+        48.595
+      ],
+      "altitude_m": 1500,
+      "founded": 1959,
+      "type": "Research",
+      "operator": "Ministry of Science and Education of Azerbaijan",
+      "bortle": 3,
+      "telescopes": "2 m telescope, 0.7 m and solar instruments",
+      "description": "Shamakhy is Azerbaijan's principal mountain observatory and one of the main astronomical sites in the South Caucasus.",
+      "history": "Founded in 1959 and later named for Nasreddin Tusi, the observatory became the center of Azerbaijani astrophysics.",
+      "website": "https://shao.az/"
+    },
+    {
+      "id": "maidanak-observatory",
+      "name": "Maidanak Observatory",
+      "location": "Maidanak Mountain, Qashqadaryo Region, Uzbekistan",
+      "coords": [
+        38.6833,
+        66.9
+      ],
+      "altitude_m": 2600,
+      "founded": 1970,
+      "type": "Research",
+      "operator": "Ulugh Beg Astronomical Institute / international partners",
+      "bortle": 2,
+      "telescopes": "1.5 m AZT-22, 1 m and 0.6 m class telescopes",
+      "description": "Maidanak is one of Central Asia's best optical sites and has exceptionally good seeing by continental standards.",
+      "history": "Site testing in the Soviet era identified Maidanak as a premier mountain location, and observatory development followed in the 1970s.",
+      "website": "http://www.maidanak.uz/"
+    },
+    {
+      "id": "yebes-observatory",
+      "name": "Yebes Observatory",
+      "location": "Yebes, Castilla-La Mancha, Spain",
+      "coords": [
+        40.5259,
+        -3.0878
+      ],
+      "altitude_m": 980,
+      "founded": 1980,
+      "type": "Radio",
+      "operator": "National Geographic Institute of Spain",
+      "bortle": 4,
+      "telescopes": "Yebes 40 m radio telescope, 13.2 m antenna, VLBI and spectroscopy instruments",
+      "description": "Yebes is Spain's leading single-dish radio astronomy site and a major European center for radio spectroscopy and VLBI.",
+      "history": "Built by Spain's geographic institute near Guadalajara, Yebes developed from geodetic and radio-engineering roots into a premier astronomical radio facility.",
+      "website": "https://www.ign.es/web/ign/portal/astro-yebes"
+    },
+    {
+      "id": "yerkes-observatory",
+      "name": "Yerkes Observatory",
+      "location": "Williams Bay, Wisconsin, United States",
+      "coords": [
+        42.5717,
+        -88.5506
+      ],
+      "altitude_m": 334,
+      "founded": 1897,
+      "type": "Historic / Museum",
+      "operator": "Yerkes Future Foundation",
+      "bortle": 4,
+      "telescopes": "Yerkes 40 in refractor, 41 in reflector, 24 in reflector",
+      "description": "Yerkes houses the largest practical refracting telescope ever built and is often called the birthplace of modern astrophysics.",
+      "history": "George Ellery Hale founded Yerkes with funding from Charles T. Yerkes as the University of Chicago's major observatory.",
+      "website": "https://yerkesobservatory.org/"
+    },
+    {
+      "id": "royal-observatory-greenwich",
+      "name": "Royal Observatory Greenwich",
+      "location": "Greenwich, London, England, United Kingdom",
+      "coords": [
+        51.4769,
+        -0.0005
+      ],
+      "altitude_m": 46,
+      "founded": 1675,
+      "type": "Historic / Museum",
+      "operator": "Royal Museums Greenwich",
+      "bortle": 8,
+      "telescopes": "Astronomer Royal's historic transit instruments, Great Equatorial Refractor 28 in, time-ball and meridian line exhibits",
+      "description": "Greenwich is the observatory that gave the world the Prime Meridian and Greenwich Mean Time.",
+      "history": "Charles II founded the observatory in 1675 to improve navigation and star catalogues.",
+      "website": "https://www.rmg.co.uk/royal-observatory"
+    },
+    {
+      "id": "mount-wilson-observatory",
+      "name": "Mount Wilson Observatory",
+      "location": "Mount Wilson, California, United States",
+      "coords": [
+        34.2244,
+        -118.0575
+      ],
+      "altitude_m": 1742,
+      "founded": 1904,
+      "type": "Historic / Museum",
+      "operator": "Mount Wilson Institute",
+      "bortle": 5,
+      "telescopes": "Hooker 100 in, 60 in reflector, CHARA Array 6 × 1 m, solar tower telescopes",
+      "description": "Mount Wilson is one of the most historically important observatories ever built.",
+      "history": "Founded by George Ellery Hale, Mount Wilson led early 20th-century astrophysics with its solar towers and giant reflectors.",
+      "website": "https://www.mtwilson.edu/"
+    },
+    {
+      "id": "lowell-observatory",
+      "name": "Lowell Observatory",
+      "location": "Mars Hill, Flagstaff, Arizona, United States",
+      "coords": [
+        35.2029,
+        -111.6649
+      ],
+      "altitude_m": 2198,
+      "founded": 1894,
+      "type": "Historic / Museum",
+      "operator": "Lowell Observatory",
+      "bortle": 4,
+      "telescopes": "Clark 24 in refractor, Discovery Telescope network support, Pluto Discovery Telescope 13 in astrograph",
+      "description": "Lowell Observatory is famous as the place where Clyde Tombaugh discovered Pluto in 1930, and it remains active in planetary and exoplanet research.",
+      "history": "Percival Lowell founded the observatory to study Mars and the Solar System.",
+      "website": "https://lowell.edu/"
+    },
+    {
+      "id": "arecibo-observatory",
+      "name": "Arecibo Observatory",
+      "location": "Arecibo, Puerto Rico, United States",
+      "coords": [
+        18.3442,
+        -66.7528
+      ],
+      "altitude_m": 497,
+      "founded": 1963,
+      "type": "Historic / Museum",
+      "operator": "University of Central Florida / government of Puerto Rico",
+      "bortle": 5,
+      "telescopes": "Historic fixed spherical reflector 305 m, 12 m radio telescope, LIDAR and educational facilities",
+      "description": "Arecibo was one of the most famous radio observatories in the world until the collapse of its 305-meter telescope in 2020.",
+      "history": "Opened in 1963 in a natural karst sinkhole, Arecibo made landmark discoveries including the first binary pulsar system later used to test general relativity and the first exoplanets around a pulsar.",
+      "website": "https://www.naic.edu/"
+    },
+    {
+      "id": "paris-observatory",
+      "name": "Paris Observatory",
+      "location": "Paris and Meudon, Île-de-France, France",
+      "coords": [
+        48.8367,
+        2.3369
+      ],
+      "altitude_m": 67,
+      "founded": 1667,
+      "type": "Historic / Museum",
+      "operator": "Observatoire de Paris - PSL",
+      "bortle": 8,
+      "telescopes": "Historic Paris instruments, Meudon 83 cm Great Refractor, solar and radio facilities at associated campuses",
+      "description": "Paris Observatory is the oldest observatory still in continuous operation and the historic center of French astronomy.",
+      "history": "Established under Louis XIV in 1667, the observatory was led by generations of Cassinis and later expanded to Meudon and Nançay.",
+      "website": "https://www.obspm.fr/"
+    },
+    {
+      "id": "nice-observatory",
+      "name": "Nice Observatory",
+      "location": "Mont Gros, Nice, France",
+      "coords": [
+        43.7278,
+        7.3006
+      ],
+      "altitude_m": 370,
+      "founded": 1879,
+      "type": "Historic / Museum",
+      "operator": "Université Côte d'Azur / Observatoire de la Côte d'Azur",
+      "bortle": 7,
+      "telescopes": "76 cm historic refractor, Schaumasse telescopes, associated Côte d'Azur instruments",
+      "description": "Nice Observatory is a grand 19th-century observatory complex with a famous domed building by Gustave Eiffel and a major refractor.",
+      "history": "Founded with support from banker Raphaël Bischoffsheim, the observatory embodied late-19th-century scientific ambition on the Riviera.",
+      "website": "https://www.oca.eu/"
+    },
+    {
+      "id": "armagh-observatory",
+      "name": "Armagh Observatory",
+      "location": "Armagh, Northern Ireland, United Kingdom",
+      "coords": [
+        54.3495,
+        -6.6523
+      ],
+      "altitude_m": 49,
+      "founded": 1790,
+      "type": "Historic / Museum",
+      "operator": "Armagh Observatory and Planetarium",
+      "bortle": 6,
+      "telescopes": "Historic refractors and timekeeping instruments, modern solar and climate archives",
+      "description": "Armagh is one of the oldest continuously operating observatories in the British Isles.",
+      "history": "Founded by Archbishop Richard Robinson in 1790, Armagh combined scientific prestige with regional education.",
+      "website": "https://www.armagh.space/"
+    },
+    {
+      "id": "dunsink-observatory",
+      "name": "Dunsink Observatory",
+      "location": "Dunsink, County Dublin, Ireland",
+      "coords": [
+        53.387,
+        -6.3375
+      ],
+      "altitude_m": 85,
+      "founded": 1785,
+      "type": "Historic / Museum",
+      "operator": "Dublin Institute for Advanced Studies / Trinity College Dublin",
+      "bortle": 6,
+      "telescopes": "Historic refractors and meridian instruments",
+      "description": "Dunsink was Ireland's first modern scientific observatory and the workplace of William Rowan Hamilton, who formulated quaternions there.",
+      "history": "The observatory was founded in 1785 by Trinity College Dublin to support timekeeping, navigation, and astronomy.",
+      "website": "https://www.dias.ie/astronomy/observatory/"
+    },
+    {
+      "id": "royal-observatory-edinburgh",
+      "name": "Royal Observatory Edinburgh",
+      "location": "Blackford Hill, Edinburgh, Scotland, United Kingdom",
+      "coords": [
+        55.9235,
+        -3.1873
+      ],
+      "altitude_m": 146,
+      "founded": 1894,
+      "type": "Historic / Museum",
+      "operator": "UK Astronomy Technology Centre / University of Edinburgh",
+      "bortle": 7,
+      "telescopes": "Historic 36 in reflector and instrumentation facilities",
+      "description": "The Royal Observatory Edinburgh became one of Britain's major astronomical centers, especially in instrumentation, survey work, and archival astronomy.",
+      "history": "Research operations moved to Blackford Hill in the 1890s from Calton Hill as Edinburgh expanded.",
+      "website": "https://www.roe.ac.uk/"
+    },
+    {
+      "id": "hamburg-observatory",
+      "name": "Hamburg Observatory",
+      "location": "Bergedorf, Hamburg, Germany",
+      "coords": [
+        53.4846,
+        10.2415
+      ],
+      "altitude_m": 22,
+      "founded": 1909,
+      "type": "Historic / Museum",
+      "operator": "University of Hamburg",
+      "bortle": 7,
+      "telescopes": "1 m reflector, Lippert Astrograph, Schmidt and meridian instruments",
+      "description": "Hamburg Observatory is a major surviving early-20th-century campus observatory with multiple domes and instruments.",
+      "history": "The observatory moved from central Hamburg to Bergedorf for darker skies in the early 1900s.",
+      "website": "https://www.hs.uni-hamburg.de/en/arbeitsgruppen/besucherzentrum.html"
+    },
+    {
+      "id": "sonneberg-observatory",
+      "name": "Sonneberg Observatory",
+      "location": "Sonneberg, Thuringia, Germany",
+      "coords": [
+        50.359,
+        11.1917
+      ],
+      "altitude_m": 640,
+      "founded": 1925,
+      "type": "Historic / Museum",
+      "operator": "Thüringer Landessternwarte Tautenburg",
+      "bortle": 5,
+      "telescopes": "Schmidt cameras and patrol telescopes, plate archive",
+      "description": "Sonneberg built one of the world's largest collections of astronomical photographic plates and became a powerhouse of variable-star patrol astronomy.",
+      "history": "Cuno Hoffmeister developed the observatory in the 1920s into a major center of systematic photographic monitoring.",
+      "website": "https://www.astronomiemuseum.de/"
+    },
+    {
+      "id": "dwingeloo-radio-observatory",
+      "name": "Dwingeloo Radio Observatory",
+      "location": "Dwingeloo, Drenthe, Netherlands",
+      "coords": [
+        52.8136,
+        6.3969
+      ],
+      "altitude_m": 17,
+      "founded": 1956,
+      "type": "Historic / Museum",
+      "operator": "CAMRAS",
+      "bortle": 4,
+      "telescopes": "Dwingeloo Telescope 25 m",
+      "description": "The Dwingeloo Telescope was once the largest fully steerable radio telescope in the world and is now a restored heritage instrument used for radio astronomy and outreach.",
+      "history": "Built in the 1950s by Dutch radio astronomers, Dwingeloo played an important role in the early mapping of the Milky Way's neutral hydrogen.",
+      "website": "https://www.camras.nl/en/"
+    },
+    {
+      "id": "pulkovo-observatory",
+      "name": "Pulkovo Observatory",
+      "location": "Pulkovo Heights, Saint Petersburg, Russia",
+      "coords": [
+        59.7714,
+        30.3278
+      ],
+      "altitude_m": 75,
+      "founded": 1839,
+      "type": "Historic / Museum",
+      "operator": "Russian Academy of Sciences",
+      "bortle": 7,
+      "telescopes": "Historic 30 in refractor, meridian instruments, restored research telescopes",
+      "description": "Pulkovo was long regarded as the astronomical capital of the Russian Empire because of its precision astrometry and superb instrumentation.",
+      "history": "Founded under Friedrich Georg Wilhelm von Struve in 1839, Pulkovo became world-famous for star catalogues, geodesy, and double-star measurements.",
+      "website": "https://www.gaoran.ru/eng/"
+    },
+    {
+      "id": "mykolaiv-astronomical-observatory",
+      "name": "Mykolaiv Astronomical Observatory",
+      "location": "Mykolaiv, Mykolaiv Oblast, Ukraine",
+      "coords": [
+        46.975,
+        31.994
+      ],
+      "altitude_m": 52,
+      "founded": 1821,
+      "type": "Historic / Museum",
+      "operator": "Research Institute Mykolaiv Astronomical Observatory",
+      "bortle": 7,
+      "telescopes": "Historic meridian instruments, small optical telescopes, astrometric facilities",
+      "description": "Mykolaiv is one of Eastern Europe's oldest observatories and was historically important for naval navigation, astrometry, and time service.",
+      "history": "Founded in the Russian imperial naval era, the observatory originally supported Black Sea navigation and geodesy.",
+      "website": "https://mao.nikolaev.ua/"
+    },
+    {
+      "id": "helwan-observatory",
+      "name": "Helwan Observatory",
+      "location": "Helwan, Cairo Governorate, Egypt",
+      "coords": [
+        29.8647,
+        31.3153
+      ],
+      "altitude_m": 154,
+      "founded": 1903,
+      "type": "Historic / Museum",
+      "operator": "National Research Institute of Astronomy and Geophysics",
+      "bortle": 8,
+      "telescopes": "Historic Reynolds 30 in reflector and geophysical facilities",
+      "description": "Helwan was one of the earliest major modern observatories in Africa and the Middle East.",
+      "history": "Founded in 1903 south of Cairo, Helwan gave Egypt a world-class observatory during the Edwardian period.",
+      "website": "https://www.nriag.sci.eg/"
+    },
+    {
+      "id": "tonantzintla-observatory",
+      "name": "Tonantzintla Observatory",
+      "location": "Tonantzintla, Puebla, Mexico",
+      "coords": [
+        19.0328,
+        -98.3139
+      ],
+      "altitude_m": 2150,
+      "founded": 1942,
+      "type": "Historic / Museum",
+      "operator": "INAOE",
+      "bortle": 5,
+      "telescopes": "Historic Schmidt camera, solar and outreach telescopes",
+      "description": "Tonantzintla is one of Mexico's most historically important observatories and was famous for its wide-field Schmidt camera.",
+      "history": "Founded in the 1940s near Puebla, Tonantzintla became the cradle of modern Mexican astrophysics.",
+      "website": "https://www.inaoep.mx/"
+    },
+    {
+      "id": "dominion-astrophysical-observatory",
+      "name": "Dominion Astrophysical Observatory",
+      "location": "Saanich, British Columbia, Canada",
+      "coords": [
+        48.5206,
+        -123.4189
+      ],
+      "altitude_m": 229,
+      "founded": 1918,
+      "type": "Historic / Museum",
+      "operator": "National Research Council Canada",
+      "bortle": 4,
+      "telescopes": "Plaskett 1.8 m reflector, 1.2 m telescope",
+      "description": "DAO's Plaskett Telescope was one of the great early reflectors and made Canada a serious astronomical nation.",
+      "history": "Opened in 1918 near Victoria, DAO housed the world's largest telescope for a brief period and built an influential spectroscopy school.",
+      "website": "https://nrc.canada.ca/en/research-development/research-collaboration/research-centres/herzberg-astronomy-astrophysics-research-centre"
+    },
+    {
+      "id": "algonquin-radio-observatory",
+      "name": "Algonquin Radio Observatory",
+      "location": "Algonquin Provincial Park, Ontario, Canada",
+      "coords": [
+        45.958,
+        -78.071
+      ],
+      "altitude_m": 283,
+      "founded": 1959,
+      "type": "Historic / Museum",
+      "operator": "National Research Council Canada",
+      "bortle": 2,
+      "telescopes": "Historic 46 m radio telescope site",
+      "description": "Algonquin was one of Canada's early major radio astronomy stations and an important deep-space communications and radio science site.",
+      "history": "The site was opened in 1959 in radio-quiet Algonquin Park and later supported both astronomy and space tracking.",
+      "website": ""
+    },
+    {
+      "id": "david-dunlap-observatory",
+      "name": "David Dunlap Observatory",
+      "location": "Richmond Hill, Ontario, Canada",
+      "coords": [
+        43.8663,
+        -79.4295
+      ],
+      "altitude_m": 259,
+      "founded": 1935,
+      "type": "Historic / Museum",
+      "operator": "City of Richmond Hill / Royal Astronomical Society of Canada partners",
+      "bortle": 7,
+      "telescopes": "74 in Plaskett-style reflector, historic refractors",
+      "description": "David Dunlap was once Canada's largest optical observatory and a major training site for generations of astronomers.",
+      "history": "Opened in 1935 for the University of Toronto, the observatory contributed to stellar spectroscopy, radial velocities, and education.",
+      "website": "https://www.ddo.ca/"
+    },
+    {
+      "id": "bosque-alegre-observatory",
+      "name": "Bosque Alegre Astrophysical Station",
+      "location": "Bosque Alegre, Córdoba, Argentina",
+      "coords": [
+        -31.598,
+        -64.548
+      ],
+      "altitude_m": 1250,
+      "founded": 1942,
+      "type": "Historic / Museum",
+      "operator": "National University of Córdoba",
+      "bortle": 3,
+      "telescopes": "1.54 m reflector and smaller telescopes",
+      "description": "Bosque Alegre hosted Argentina's classic large reflector and was one of South America's leading observatories in the mid-20th century.",
+      "history": "The Córdoba observatory developed Bosque Alegre to gain darker mountain skies than the city allowed.",
+      "website": "https://oac.unc.edu.ar/estacion-astrofisica-bosque-alegre/"
+    },
+    {
+      "id": "national-observatory-brazil",
+      "name": "National Observatory of Brazil",
+      "location": "São Cristóvão, Rio de Janeiro, Brazil",
+      "coords": [
+        -22.8958,
+        -43.2244
+      ],
+      "altitude_m": 33,
+      "founded": 1827,
+      "type": "Historic / Museum",
+      "operator": "National Observatory of Brazil",
+      "bortle": 8,
+      "telescopes": "Historic refractors, meridian circle, geodesy and time-service instruments",
+      "description": "Brazil's National Observatory is one of Latin America's oldest scientific institutions and historically central to timekeeping, geodesy, and astronomy.",
+      "history": "Founded in the imperial period in 1827, the observatory anchored Brazilian astronomical and geophysical services for nearly two centuries.",
+      "website": "https://www.gov.br/observatorio/"
+    },
+    {
+      "id": "national-astronomical-observatory-colombia",
+      "name": "National Astronomical Observatory of Colombia",
+      "location": "Bogotá, Cundinamarca, Colombia",
+      "coords": [
+        4.6371,
+        -74.068
+      ],
+      "altitude_m": 2640,
+      "founded": 1803,
+      "type": "Historic / Museum",
+      "operator": "National University of Colombia",
+      "bortle": 8,
+      "telescopes": "Historic dome instruments and teaching telescopes",
+      "description": "The Bogotá observatory is the oldest national observatory in the Americas and a landmark of Enlightenment science in Spanish America.",
+      "history": "Completed in 1803, it served navigation, geodesy, and the scientific life of the Viceroyalty of New Granada.",
+      "website": "https://astronomia.unal.edu.co/"
+    },
+    {
+      "id": "mount-stromlo-observatory",
+      "name": "Mount Stromlo Observatory",
+      "location": "Mount Stromlo, Australian Capital Territory, Australia",
+      "coords": [
+        -35.3167,
+        149.0083
+      ],
+      "altitude_m": 770,
+      "founded": 1911,
+      "type": "Historic / Museum",
+      "operator": "Australian National University",
+      "bortle": 5,
+      "telescopes": "Historic Oddie telescope, 1.9 m / 74 in heritage site, instrumentation and satellite-laser facilities",
+      "description": "Mount Stromlo is one of Australia's most storied observatories and the birthplace of much of the country's modern astronomy.",
+      "history": "Founded as a solar observatory in 1911 and later expanded into optical astronomy, Stromlo trained several generations of Australian astronomers.",
+      "website": "https://rsaa.anu.edu.au/observatories/mount-stromlo-observatory"
+    },
+    {
+      "id": "purple-mountain-observatory",
+      "name": "Purple Mountain Observatory",
+      "location": "Purple Mountain, Nanjing, Jiangsu, China",
+      "coords": [
+        32.0692,
+        118.821
+      ],
+      "altitude_m": 267,
+      "founded": 1934,
+      "type": "Historic / Museum",
+      "operator": "Chinese Academy of Sciences",
+      "bortle": 7,
+      "telescopes": "Historic 60 cm reflector and educational instruments",
+      "description": "Purple Mountain Observatory is one of the foundational institutions of modern Chinese astronomy.",
+      "history": "Founded in 1934 on Zijin Shan above Nanjing, PMO survived war and political upheaval to become a leading research institution.",
+      "website": "http://english.pmo.cas.cn/"
+    },
+    {
+      "id": "sheshan-observatory",
+      "name": "Sheshan Observatory",
+      "location": "Sheshan, Shanghai, China",
+      "coords": [
+        31.0956,
+        121.1847
+      ],
+      "altitude_m": 97,
+      "founded": 1900,
+      "type": "Historic / Museum",
+      "operator": "Shanghai Astronomical Observatory",
+      "bortle": 8,
+      "telescopes": "Historic 40 cm refractor and associated geodetic instruments",
+      "description": "Sheshan is Shanghai's historic hilltop observatory and an early center of Chinese astrophotography, time service, and positional astronomy.",
+      "history": "Built by Jesuits at the turn of the 20th century, Sheshan became intertwined with the growth of astronomy in Shanghai.",
+      "website": "http://english.shao.cas.cn/"
+    },
+    {
+      "id": "kwasan-observatory",
+      "name": "Kwasan Observatory",
+      "location": "Yamashina, Kyoto, Japan",
+      "coords": [
+        34.986,
+        135.784
+      ],
+      "altitude_m": 130,
+      "founded": 1929,
+      "type": "University / Educational",
+      "operator": "Kyoto University",
+      "bortle": 7,
+      "telescopes": "Historic solar and optical telescopes, Seimei support heritage",
+      "description": "Kwasan is one of Japan's classic university observatories and especially important in solar and geophysical astronomy.",
+      "history": "Kyoto University founded Kwasan in 1929 as a modern astrophysical observatory.",
+      "website": "https://www.kwasan.kyoto-u.ac.jp/"
+    },
+    {
+      "id": "astronomical-observatory-of-lisbon",
+      "name": "Astronomical Observatory of Lisbon",
+      "location": "Tapada da Ajuda, Lisbon, Portugal",
+      "coords": [
+        38.7097,
+        -9.1819
+      ],
+      "altitude_m": 95,
+      "founded": 1867,
+      "type": "Historic / Museum",
+      "operator": "University of Lisbon",
+      "bortle": 8,
+      "telescopes": "Historic 15 in refractor and meridian instruments",
+      "description": "Lisbon's observatory is one of the great 19th-century scientific buildings of the Iberian Peninsula.",
+      "history": "Construction began amid disputes over stellar parallax and the need for a major Portuguese observatory.",
+      "website": "https://www.observatorio.ulisboa.pt/"
+    },
+    {
+      "id": "vienna-observatory",
+      "name": "Vienna Observatory",
+      "location": "Währing, Vienna, Austria",
+      "coords": [
+        48.2356,
+        16.3375
+      ],
+      "altitude_m": 240,
+      "founded": 1883,
+      "type": "Historic / Museum",
+      "operator": "University of Vienna",
+      "bortle": 8,
+      "telescopes": "Historic Great Refractor 68 cm and associated instruments",
+      "description": "Vienna Observatory's Great Refractor was once the largest lens telescope in the world and remains one of Europe's great observatory buildings.",
+      "history": "The current observatory opened in 1883 as an ambitious Habsburg-era scientific project.",
+      "website": "https://www.univie.ac.at/himmelhof/en/observatory/"
+    },
+    {
+      "id": "konkoly-observatory",
+      "name": "Konkoly Observatory",
+      "location": "Svábhegy, Budapest, Hungary",
+      "coords": [
+        47.484,
+        18.962
+      ],
+      "altitude_m": 478,
+      "founded": 1899,
+      "type": "Historic / Museum",
+      "operator": "HUN-REN Research Centre for Astronomy and Earth Sciences",
+      "bortle": 7,
+      "telescopes": "Historic telescopes and modern support instruments; Piszkéstető mountain station operates larger telescopes",
+      "description": "Konkoly Observatory is Hungary's historic national observatory and the institutional center of Hungarian astrophysics.",
+      "history": "Founded by Miklós Konkoly-Thege in the late 19th century, the observatory became Hungary's main astronomical institution.",
+      "website": "https://konkoly.hu/"
+    },
+    {
+      "id": "old-observatory-leiden",
+      "name": "Leiden Observatory",
+      "location": "Leiden, South Holland, Netherlands",
+      "coords": [
+        52.1586,
+        4.4841
+      ],
+      "altitude_m": 15,
+      "founded": 1633,
+      "type": "Historic / Museum",
+      "operator": "Leiden University",
+      "bortle": 8,
+      "telescopes": "Historic refractors and university teaching telescopes",
+      "description": "Leiden Observatory is the oldest university observatory still operating in the world and one of the great names in European astronomy.",
+      "history": "Founded in 1633, Leiden shaped stellar structure, Galactic astronomy, and radio astronomy through figures such as Oort and de Sitter.",
+      "website": "https://www.universiteitleiden.nl/sterrenwacht"
+    },
+    {
+      "id": "sonnenborgh-observatory",
+      "name": "Sonnenborgh Observatory",
+      "location": "Utrecht, Utrecht, Netherlands",
+      "coords": [
+        52.0858,
+        5.127
+      ],
+      "altitude_m": 14,
+      "founded": 1853,
+      "type": "Historic / Museum",
+      "operator": "Utrecht University / Museum Sonnenborgh",
+      "bortle": 8,
+      "telescopes": "Historic refractors, solar and meteorological instruments",
+      "description": "Sonnenborgh is a classic Dutch observatory on an old bastion in Utrecht and now serves largely as a museum and public observatory.",
+      "history": "The observatory opened in 1853 as the Royal Dutch Meteorological Institute and an astronomy station.",
+      "website": "https://www.sonnenborgh.nl/"
+    },
+    {
+      "id": "brorfelde-observatory",
+      "name": "Brorfelde Observatory",
+      "location": "Brorfelde, Zealand, Denmark",
+      "coords": [
+        55.626,
+        11.672
+      ],
+      "altitude_m": 90,
+      "founded": 1953,
+      "type": "Historic / Museum",
+      "operator": "University of Copenhagen",
+      "bortle": 4,
+      "telescopes": "Historic meridian circle, Schmidt telescopes, 0.5 m class telescopes",
+      "description": "Brorfelde became Denmark's main observing site after Copenhagen's city center grew too bright for precise astronomy.",
+      "history": "Developed in the 1950s by the University of Copenhagen, Brorfelde supported Danish positional astronomy and teacher training.",
+      "website": "https://www.brorfelde.dk/"
+    },
+    {
+      "id": "ulugh-beg-observatory",
+      "name": "Ulugh Beg Observatory",
+      "location": "Samarkand, Samarqand Region, Uzbekistan",
+      "coords": [
+        39.6553,
+        66.975
+      ],
+      "altitude_m": 720,
+      "founded": 1428,
+      "type": "Historic / Museum",
+      "operator": "State Museum of History of Culture of Uzbekistan",
+      "bortle": 6,
+      "telescopes": "Restored sextant remains and museum exhibits",
+      "description": "Ulugh Beg's observatory was one of the greatest scientific institutions of the 15th century and the site of exceptionally accurate star catalogues before the telescopic era.",
+      "history": "Built by the Timurid ruler-astronomer Ulugh Beg around 1428, the observatory produced the Zij-i Sultani, one of the finest premodern star catalogues.",
+      "website": "https://samarkandtourism.uz/"
+    },
+    {
+      "id": "bosscha-observatory",
+      "name": "Bosscha Observatory",
+      "location": "Lembang, West Java, Indonesia",
+      "coords": [
+        -6.8244,
+        107.6147
+      ],
+      "altitude_m": 1310,
+      "founded": 1923,
+      "type": "University / Educational",
+      "operator": "Bandung Institute of Technology",
+      "bortle": 5,
+      "telescopes": "Zeiss double refractor 60 cm / 37 cm, Schmidt telescope, 45 cm reflector",
+      "description": "Bosscha is Southeast Asia's best-known historic observatory and remains Indonesia's flagship teaching observatory.",
+      "history": "Founded in the Dutch East Indies in 1923, Bosscha was long the region's principal astronomical observatory.",
+      "website": "https://bosscha.itb.ac.id/en/"
+    },
+    {
+      "id": "langkawi-national-observatory",
+      "name": "Langkawi National Observatory",
+      "location": "Langkawi, Kedah, Malaysia",
+      "coords": [
+        6.307,
+        99.7836
+      ],
+      "altitude_m": 22,
+      "founded": 2006,
+      "type": "University / Educational",
+      "operator": "Langkawi National Observatory / Malaysian National Space Agency partners",
+      "bortle": 4,
+      "telescopes": "0.5 m and educational telescopes",
+      "description": "Langkawi is Malaysia's best-known public-professional observatory and an important national center for astronomy outreach, minor-planet work, and education.",
+      "history": "Opened in the 2000s, the observatory helped broaden Malaysian participation in observational astronomy and public skywatching.",
+      "website": "https://www.langkawi.gov.my/"
+    },
+    {
+      "id": "nha-trang-observatory",
+      "name": "Nha Trang Observatory",
+      "location": "Nha Trang, Khánh Hòa, Vietnam",
+      "coords": [
+        12.207,
+        109.213
+      ],
+      "altitude_m": 10,
+      "founded": 2017,
+      "type": "University / Educational",
+      "operator": "Vietnam National Space Center",
+      "bortle": 6,
+      "telescopes": "0.5 m optical telescope, 1.8 m radio telescope, planetarium-linked observing equipment",
+      "description": "Nha Trang is one of Vietnam's principal modern astronomy sites and a public gateway into radio and optical observing.",
+      "history": "Opened in 2017 as part of Vietnam's emerging space-science infrastructure, the observatory broadened astronomy access beyond universities in Hanoi and Ho Chi Minh City.",
+      "website": "https://vnsc.org.vn/"
+    },
+    {
+      "id": "tuorla-observatory",
+      "name": "Tuorla Observatory",
+      "location": "Piikkiö, Southwest Finland, Finland",
+      "coords": [
+        60.4033,
+        22.4433
+      ],
+      "altitude_m": 60,
+      "founded": 1952,
+      "type": "University / Educational",
+      "operator": "University of Turku",
+      "bortle": 5,
+      "telescopes": "1 m Schmidt, 0.7 m and educational telescopes",
+      "description": "Tuorla has long been Finland's best-known university observatory and a center for active-galaxy and binary-star research.",
+      "history": "Founded in the 1950s near Turku, Tuorla became a key Finnish site for observational astrophysics before some functions moved to visitor-oriented facilities.",
+      "website": "https://www.astro.utu.fi/"
+    },
+    {
+      "id": "moletai-astronomical-observatory",
+      "name": "Molėtai Astronomical Observatory",
+      "location": "Molėtai District, Lithuania",
+      "coords": [
+        55.3167,
+        25.5667
+      ],
+      "altitude_m": 200,
+      "founded": 1969,
+      "type": "Research",
+      "operator": "Institute of Theoretical Physics and Astronomy, Vilnius University",
+      "bortle": 3,
+      "telescopes": "1.65 m telescope, 0.63 m and Schmidt telescopes",
+      "description": "Molėtai is Lithuania's principal observatory and the Baltic region's largest active optical astronomy site.",
+      "history": "Established in 1969 to give Lithuanian astronomy a darker rural site, Molėtai became the country's main professional observatory.",
+      "website": "https://www.itpa.lt/"
+    },
+    {
+      "id": "griffith-observatory",
+      "name": "Griffith Observatory",
+      "location": "Mount Hollywood, California, United States",
+      "coords": [
+        34.1184,
+        -118.3004
+      ],
+      "altitude_m": 346,
+      "founded": 1935,
+      "type": "Public / Astrotourism",
+      "operator": "City of Los Angeles",
+      "bortle": 8,
+      "telescopes": "Historic 12 in Zeiss refractor, solar telescope, public telescopes",
+      "description": "Griffith Observatory is the world's most famous public observatory and a major symbol of popular astronomy.",
+      "history": "Opened in 1935 as a gift to the public, Griffith helped define modern astronomy outreach through free exhibits and observing.",
+      "website": "https://griffithobservatory.org/"
+    },
+    {
+      "id": "perth-observatory",
+      "name": "Perth Observatory",
+      "location": "Bickley, Western Australia, Australia",
+      "coords": [
+        -32.0076,
+        116.137
+      ],
+      "altitude_m": 270,
+      "founded": 1965,
+      "type": "Historic / Museum",
+      "operator": "Perth Observatory",
+      "bortle": 4,
+      "telescopes": "Historic 60 cm reflector, 25 cm astrograph, public telescopes",
+      "description": "Perth Observatory is Western Australia's historic observatory and a major public astronomy institution.",
+      "history": "Although the institution dates to the 1890s, observing moved to the Bickley site in the 1960s as Perth expanded.",
+      "website": "https://www.perthobservatory.com.au/"
+    },
+    {
+      "id": "kielder-observatory",
+      "name": "Kielder Observatory",
+      "location": "Kielder Forest, Northumberland, England, United Kingdom",
+      "coords": [
+        55.2345,
+        -2.584
+      ],
+      "altitude_m": 300,
+      "founded": 2008,
+      "type": "Public / Astrotourism",
+      "operator": "Kielder Observatory Astronomical Society",
+      "bortle": 2,
+      "telescopes": "Public observing telescopes in multiple domes",
+      "description": "Kielder is one of Europe's best-known dark-sky public observatories, situated within Northumberland International Dark Sky Park.",
+      "history": "Founded in 2008, Kielder capitalized on the region's exceptionally dark skies to build a destination observatory for visitors.",
+      "website": "https://www.kielderobservatory.org/"
+    }
+  ]
+}

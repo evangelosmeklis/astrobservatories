@@ -1,0 +1,12 @@
+services:
+  asteroskopeia:
+    image: nginx:alpine
+    container_name: asteroskopeia
+    restart: unless-stopped
+    ports:
+      - "3015:80"
+    volumes:
+      # Mount the directory, not individual files: single-file bind mounts pin
+      # the inode, so edits that replace the file are never seen by the container.
+      - ./:/usr/share/nginx/html:ro
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
