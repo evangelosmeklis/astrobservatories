@@ -271,7 +271,7 @@
       "telescopes": "Daniel K. Inouye Solar Telescope 4 m, Pan-STARRS PS1 & PS2 1.8 m, AEOS 3.67 m, Mees Solar Observatory 0.25 m",
       "description": "Haleakalā hosts the world's largest solar telescope, DKIST, together with the Pan-STARRS survey telescopes that transformed asteroid and transient discovery.",
       "history": "The site first developed for solar and satellite-tracking work in the mid-20th century and later expanded into survey astronomy and solar physics.",
-      "website": "https://about.ifa.hawaii.edu/facility/haleakala-observatories/"
+      "website": ""
     },
     {
       "id": "mauna-loa-solar-observatory",
@@ -613,7 +613,7 @@
       "telescopes": "Nançay Decimetric Radio Telescope, NenuFAR low-frequency array, solar and pulsar instruments",
       "description": "Nançay is France's principal radio astronomy site and is particularly known for pulsar timing, solar radio work, and low-frequency arrays.",
       "history": "Built after World War II at a radio-quiet rural location, Nançay became France's main radio observatory.",
-      "website": "https://www.obs-nancay.fr/"
+      "website": ""
     },
     {
       "id": "jodrell-bank-observatory",
@@ -739,7 +739,7 @@
       "telescopes": "Galileo 1.22 m, Copernico 1.82 m, Schmidt telescopes",
       "description": "Asiago is Italy's best-known mountain optical observatory and a long-time center for stellar, supernova, and minor-planet work.",
       "history": "The University of Padua developed Asiago during World War II and later expanded to Cima Ekar for darker skies and larger telescopes.",
-      "website": "https://www.oapd.inaf.it/index.php/en/observatories/asiago-astrophysical-observatory"
+      "website": ""
     },
     {
       "id": "arcetri-observatory",
@@ -775,7 +775,7 @@
       "telescopes": "Cassini Telescope 1.52 m, historic Schmidt telescope",
       "description": "Loiano is the principal mountain observing station of the Bologna observatory and remains active for imaging and spectroscopy.",
       "history": "The station was established in the Apennines to escape the poor conditions of urban Bologna.",
-      "website": "https://www.oas.inaf.it/en/infrastructures/loiano-observatory/"
+      "website": ""
     },
     {
       "id": "campo-imperatore-observatory",
@@ -793,7 +793,7 @@
       "telescopes": "AZT-24 1.1 m infrared telescope, Schmidt telescope, robotic facilities",
       "description": "Campo Imperatore is a high Apennine site known for infrared observations and time-domain follow-up.",
       "history": "The Rome Observatory established the site in the 1960s on the Gran Sasso plateau.",
-      "website": "https://www.oa-roma.inaf.it/en/observing-stations-and-telescopes/campo-imperatore-observatory/"
+      "website": ""
     },
     {
       "id": "sardinia-radio-telescope",
@@ -811,7 +811,7 @@
       "telescopes": "SRT 64 m fully steerable dish",
       "description": "The Sardinia Radio Telescope is one of Europe's newest large single-dish radio telescopes.",
       "history": "Planned as a major Italian national facility, SRT entered scientific use in the 2010s.",
-      "website": "https://www.srt.inaf.it/"
+      "website": ""
     },
     {
       "id": "medicina-radio-observatory",
@@ -829,7 +829,7 @@
       "telescopes": "32 m dish, Northern Cross array",
       "description": "Medicina is one of Italy's classic radio astronomy sites and home to the distinctive Northern Cross antenna system.",
       "history": "Developed in the 1960s near Bologna, Medicina became central to Italian radio astronomy and technical development.",
-      "website": "https://www.ira.inaf.it/en/medicina/"
+      "website": ""
     },
     {
       "id": "noto-radio-observatory",
@@ -847,7 +847,7 @@
       "telescopes": "32 m radio telescope",
       "description": "Noto is Sicily's major radio astronomy site and an important southern node in European VLBI.",
       "history": "The station was developed in the late 1980s as Italian radio astronomy expanded into a national network.",
-      "website": "https://www.ira.inaf.it/en/noto/"
+      "website": ""
     },
     {
       "id": "special-astrophysical-observatory",
@@ -955,7 +955,7 @@
       "telescopes": "1 m telescope, C28 automated telescopes, wide-field survey instruments",
       "description": "Wise Observatory is Israel's principal optical observatory and a leading Near East site for time-domain astronomy.",
       "history": "Tel Aviv University established the observatory in the Negev in 1971 to escape coastal light pollution.",
-      "website": "https://wise.tau.ac.il/"
+      "website": ""
     },
     {
       "id": "kottamia-astronomical-observatory",
@@ -991,7 +991,7 @@
       "telescopes": "TRAPPIST-North 0.6 m, MOSS 0.5 m, OWL-Net and time-domain instruments",
       "description": "Oukaimeden is Morocco's highest major astronomy site and one of the best dark-sky locations in North Africa.",
       "history": "The observatory was established in the High Atlas in the 2000s after site testing showed excellent conditions.",
-      "website": "https://oukaimedenobservatory.uca.ma/"
+      "website": ""
     },
     {
       "id": "sutherland-observatory",
@@ -1027,7 +1027,7 @@
       "telescopes": "26 m radio telescope, VLBI and geodetic antennas",
       "description": "HartRAO is South Africa's classic radio astronomy site and a major African node for VLBI and geodesy.",
       "history": "Originally built as a NASA deep-space tracking station in 1961, the site later changed into a radio astronomy observatory.",
-      "website": "https://www.sarao.ac.za/about/observatories/hartebeesthoek-radio-astronomy-observatory/"
+      "website": ""
     },
     {
       "id": "meerkat-observatory",
@@ -1099,7 +1099,7 @@
       "telescopes": "2 × 1 m telescopes",
       "description": "Entoto is East Africa's first major optical observatory and Ethiopia's flagship astronomy site.",
       "history": "Opened in 2013 above Addis Ababa, Entoto symbolized the rapid development of astronomy in Africa beyond traditional centers.",
-      "website": "https://www.essgi.gov.et/"
+      "website": ""
     },
     {
       "id": "cerro-paranal-observatory",
@@ -1171,7 +1171,7 @@
       "telescopes": "Víctor M. Blanco 4 m, SMARTS 1.5 m and 1.3 m, SOAR nearby partner access",
       "description": "CTIO is one of the great Southern Hemisphere optical observatory sites and home to the Blanco 4-meter telescope.",
       "history": "The observatory was created as an international U.S.-led southern site in the 1960s.",
-      "website": "https://noirlab.edu/public/science/observing-noirlab/ctio/"
+      "website": ""
     },
     {
       "id": "cerro-pachon-observatory",
@@ -1279,7 +1279,7 @@
       "telescopes": "LMT 50 m single dish",
       "description": "The LMT is the largest single-aperture steerable millimeter telescope in the world.",
       "history": "The U.S.-Mexican project opened in stages in the 2010s after a challenging high-altitude construction campaign.",
-      "website": "https://lmtgtm.org/"
+      "website": ""
     },
     {
       "id": "dominion-radio-astrophysical-observatory",
@@ -1297,7 +1297,7 @@
       "telescopes": "Synthesis Telescope 7 dishes, 26 m telescope, CHIME cylinders",
       "description": "DRAO is Canada's principal radio astronomy site and now hosts CHIME, one of the decade's most influential instruments for fast radio bursts and cosmology.",
       "history": "Developed in the early 1960s, DRAO built Canadian expertise in radio synthesis imaging.",
-      "website": "https://nrc.canada.ca/en/research-development/nrc-facilities/dominion-radio-astrophysical-observatory"
+      "website": ""
     },
     {
       "id": "casleo",
@@ -1441,7 +1441,7 @@
       "telescopes": "Murriyang 64 m dish, support antennas",
       "description": "Parkes is one of the world's most famous radio observatories and played a celebrated role relaying television from the Apollo 11 Moon landing.",
       "history": "Opened in 1961, Parkes quickly became Australia's radio-astronomy icon.",
-      "website": "https://www.csiro.au/en/about/facilities-collections/atnf/parkes-radio-telescope"
+      "website": ""
     },
     {
       "id": "australia-telescope-compact-array",
@@ -1459,7 +1459,7 @@
       "telescopes": "6 × 22 m antennas on east-west tracks",
       "description": "ATCA is Australia's premier synthesis radio array for centimeter-wave astronomy.",
       "history": "Commissioned in the late 1980s, ATCA extended CSIRO's radio heritage beyond single-dish work at Parkes.",
-      "website": "https://www.csiro.au/en/about/facilities-collections/atnf/atca"
+      "website": ""
     },
     {
       "id": "mopra-observatory",
@@ -1495,7 +1495,7 @@
       "telescopes": "ASKAP 36 × 12 m, Murchison Widefield Array, SKA-Low precursor infrastructure",
       "description": "The Murchison site is one of the quietest radio locations on Earth and Australia's key pathfinder complex for the Square Kilometre Array.",
       "history": "Established in the 2010s in remote Western Australia, the site was purpose-built for the SKA era.",
-      "website": "https://www.csiro.au/en/about/facilities-collections/atnf/murchison-radio-astronomy-observatory"
+      "website": ""
     },
     {
       "id": "indian-astronomical-observatory",
@@ -1513,7 +1513,7 @@
       "telescopes": "Himalayan Chandra Telescope 2 m, GROWTH-India 0.7 m, HAGAR and MACE gamma-ray support nearby",
       "description": "Hanle is one of the highest professional optical observatory sites in the world and India's darkest major observatory.",
       "history": "Developed by the Indian Institute of Astrophysics in the early 2000s, Hanle gave India a truly world-class high-altitude observing site.",
-      "website": "https://www.iiap.res.in/iao"
+      "website": ""
     },
     {
       "id": "devasthal-observatory",
@@ -1549,7 +1549,7 @@
       "telescopes": "VBT 2.34 m, 1.3 m J C Bhattacharyya Telescope, historic refractors",
       "description": "Kavalur is one of India's classic optical observatories and home to the Vainu Bappu Telescope, long the country's largest optical instrument.",
       "history": "The observatory was founded by Vainu Bappu in the late 1960s as a national mountain site.",
-      "website": "https://www.iiap.res.in/vbo"
+      "website": ""
     },
     {
       "id": "udaipur-solar-observatory",
@@ -1567,7 +1567,7 @@
       "telescopes": "Solar telescopes and synoptic instruments on island site",
       "description": "Udaipur Solar Observatory is India's leading dedicated solar observatory and is often compared to Big Bear because of its island-lake location.",
       "history": "The site was established in 1975 by PRL to provide India with a major solar physics platform.",
-      "website": "https://www.uso.prl.res.in/"
+      "website": ""
     },
     {
       "id": "giant-metrewave-radio-telescope",
@@ -1585,7 +1585,7 @@
       "telescopes": "30 × 45 m dishes",
       "description": "GMRT is one of the world's most important low-frequency radio arrays and a landmark instrument for cosmology, pulsars, and Galactic astronomy.",
       "history": "Conceived by Govind Swarup and completed in the 1990s, GMRT gave India a globally competitive radio observatory at meter wavelengths.",
-      "website": "https://gmrt.ncra.tifr.res.in/"
+      "website": ""
     },
     {
       "id": "ooty-radio-telescope",
@@ -1603,7 +1603,7 @@
       "telescopes": "530 m × 30 m cylindrical radio telescope",
       "description": "The Ooty Radio Telescope is a distinctive cylindrical paraboloid built on a hill whose slope matches the latitude, allowing simple tracking of the sky.",
       "history": "Commissioned in 1970 under Govind Swarup, ORT became India's first major radio telescope and a precursor to later national arrays.",
-      "website": "https://rac.ncra.tifr.res.in/"
+      "website": ""
     },
     {
       "id": "gauribidanur-radio-observatory",
@@ -1621,7 +1621,7 @@
       "telescopes": "Decameter Wave Radio Telescope, Radio Heliograph, GLOSS array",
       "description": "Gauribidanur is India's main decametric radio astronomy site and is especially important for solar radio bursts and low-frequency heliophysics.",
       "history": "The site was established in the 1970s to study the Sun and low-frequency cosmic radio sources.",
-      "website": "https://www.iiap.res.in/radio"
+      "website": ""
     },
     {
       "id": "kodaikanal-solar-observatory",
@@ -1639,7 +1639,7 @@
       "telescopes": "Historic solar telescopes, spectroheliographs, white-light patrol instruments",
       "description": "Kodaikanal is one of the world's classic solar observatories and holds more than a century of solar images, spectroheliograms, and sunspot records.",
       "history": "Founded in 1899 in the Palani Hills, the observatory became a cornerstone of Indian astrophysics before branching into broader astronomy.",
-      "website": "https://www.iiap.res.in/kso"
+      "website": ""
     },
     {
       "id": "xinglong-observatory",
@@ -1855,7 +1855,7 @@
       "telescopes": "188 cm reflector, 0.91 m telescope, Seimei Telescope 3.8 m nearby at Kyoto University Okayama site",
       "description": "Okayama is one of Japan's classic optical observatories and home to the historic 188-centimeter reflector.",
       "history": "The 188-centimeter telescope entered service in 1960 and for years was East Asia's largest optical telescope.",
-      "website": "https://www.nao.ac.jp/en/access/okayama/"
+      "website": ""
     },
     {
       "id": "mizusawa-vlbi-observatory",
@@ -1945,7 +1945,7 @@
       "telescopes": "32 m radio telescope, 90 cm Schmidt-Cassegrain, optical teaching telescopes",
       "description": "Piwnice is Poland's principal university observatory complex and combines optical and radio astronomy on one rural campus.",
       "history": "Founded after World War II by Nicolaus Copernicus University, the observatory became central to modern Polish observational astronomy.",
-      "website": "https://www.astri.umk.pl/"
+      "website": ""
     },
     {
       "id": "rozhen-observatory",
@@ -2017,7 +2017,7 @@
       "telescopes": "Yebes 40 m radio telescope, 13.2 m antenna, VLBI and spectroscopy instruments",
       "description": "Yebes is Spain's leading single-dish radio astronomy site and a major European center for radio spectroscopy and VLBI.",
       "history": "Built by Spain's geographic institute near Guadalajara, Yebes developed from geodetic and radio-engineering roots into a premier astronomical radio facility.",
-      "website": "https://www.ign.es/web/ign/portal/astro-yebes"
+      "website": ""
     },
     {
       "id": "yerkes-observatory",
@@ -2107,7 +2107,7 @@
       "telescopes": "Historic fixed spherical reflector 305 m, 12 m radio telescope, LIDAR and educational facilities",
       "description": "Arecibo was one of the most famous radio observatories in the world until the collapse of its 305-meter telescope in 2020.",
       "history": "Opened in 1963 in a natural karst sinkhole, Arecibo made landmark discoveries including the first binary pulsar system later used to test general relativity and the first exoplanets around a pulsar.",
-      "website": "https://www.naic.edu/"
+      "website": ""
     },
     {
       "id": "paris-observatory",
@@ -2377,7 +2377,7 @@
       "telescopes": "74 in Plaskett-style reflector, historic refractors",
       "description": "David Dunlap was once Canada's largest optical observatory and a major training site for generations of astronomers.",
       "history": "Opened in 1935 for the University of Toronto, the observatory contributed to stellar spectroscopy, radial velocities, and education.",
-      "website": "https://www.ddo.ca/"
+      "website": ""
     },
     {
       "id": "bosque-alegre-observatory",
@@ -2395,7 +2395,7 @@
       "telescopes": "1.54 m reflector and smaller telescopes",
       "description": "Bosque Alegre hosted Argentina's classic large reflector and was one of South America's leading observatories in the mid-20th century.",
       "history": "The Córdoba observatory developed Bosque Alegre to gain darker mountain skies than the city allowed.",
-      "website": "https://oac.unc.edu.ar/estacion-astrofisica-bosque-alegre/"
+      "website": ""
     },
     {
       "id": "national-observatory-brazil",
@@ -2431,7 +2431,7 @@
       "telescopes": "Historic dome instruments and teaching telescopes",
       "description": "The Bogotá observatory is the oldest national observatory in the Americas and a landmark of Enlightenment science in Spanish America.",
       "history": "Completed in 1803, it served navigation, geodesy, and the scientific life of the Viceroyalty of New Granada.",
-      "website": "https://astronomia.unal.edu.co/"
+      "website": ""
     },
     {
       "id": "mount-stromlo-observatory",
@@ -2521,7 +2521,7 @@
       "telescopes": "Historic 15 in refractor and meridian instruments",
       "description": "Lisbon's observatory is one of the great 19th-century scientific buildings of the Iberian Peninsula.",
       "history": "Construction began amid disputes over stellar parallax and the need for a major Portuguese observatory.",
-      "website": "https://www.observatorio.ulisboa.pt/"
+      "website": ""
     },
     {
       "id": "vienna-observatory",
@@ -2539,7 +2539,7 @@
       "telescopes": "Historic Great Refractor 68 cm and associated instruments",
       "description": "Vienna Observatory's Great Refractor was once the largest lens telescope in the world and remains one of Europe's great observatory buildings.",
       "history": "The current observatory opened in 1883 as an ambitious Habsburg-era scientific project.",
-      "website": "https://www.univie.ac.at/himmelhof/en/observatory/"
+      "website": ""
     },
     {
       "id": "konkoly-observatory",
@@ -2575,7 +2575,7 @@
       "telescopes": "Historic refractors and university teaching telescopes",
       "description": "Leiden Observatory is the oldest university observatory still operating in the world and one of the great names in European astronomy.",
       "history": "Founded in 1633, Leiden shaped stellar structure, Galactic astronomy, and radio astronomy through figures such as Oort and de Sitter.",
-      "website": "https://www.universiteitleiden.nl/sterrenwacht"
+      "website": ""
     },
     {
       "id": "sonnenborgh-observatory",
@@ -2629,7 +2629,7 @@
       "telescopes": "Restored sextant remains and museum exhibits",
       "description": "Ulugh Beg's observatory was one of the greatest scientific institutions of the 15th century and the site of exceptionally accurate star catalogues before the telescopic era.",
       "history": "Built by the Timurid ruler-astronomer Ulugh Beg around 1428, the observatory produced the Zij-i Sultani, one of the finest premodern star catalogues.",
-      "website": "https://samarkandtourism.uz/"
+      "website": ""
     },
     {
       "id": "bosscha-observatory",
@@ -2665,7 +2665,7 @@
       "telescopes": "0.5 m and educational telescopes",
       "description": "Langkawi is Malaysia's best-known public-professional observatory and an important national center for astronomy outreach, minor-planet work, and education.",
       "history": "Opened in the 2000s, the observatory helped broaden Malaysian participation in observational astronomy and public skywatching.",
-      "website": "https://www.langkawi.gov.my/"
+      "website": ""
     },
     {
       "id": "nha-trang-observatory",
@@ -2683,7 +2683,7 @@
       "telescopes": "0.5 m optical telescope, 1.8 m radio telescope, planetarium-linked observing equipment",
       "description": "Nha Trang is one of Vietnam's principal modern astronomy sites and a public gateway into radio and optical observing.",
       "history": "Opened in 2017 as part of Vietnam's emerging space-science infrastructure, the observatory broadened astronomy access beyond universities in Hanoi and Ho Chi Minh City.",
-      "website": "https://vnsc.org.vn/"
+      "website": ""
     },
     {
       "id": "tuorla-observatory",
@@ -2701,7 +2701,7 @@
       "telescopes": "1 m Schmidt, 0.7 m and educational telescopes",
       "description": "Tuorla has long been Finland's best-known university observatory and a center for active-galaxy and binary-star research.",
       "history": "Founded in the 1950s near Turku, Tuorla became a key Finnish site for observational astrophysics before some functions moved to visitor-oriented facilities.",
-      "website": "https://www.astro.utu.fi/"
+      "website": ""
     },
     {
       "id": "moletai-astronomical-observatory",
@@ -2719,7 +2719,7 @@
       "telescopes": "1.65 m telescope, 0.63 m and Schmidt telescopes",
       "description": "Molėtai is Lithuania's principal observatory and the Baltic region's largest active optical astronomy site.",
       "history": "Established in 1969 to give Lithuanian astronomy a darker rural site, Molėtai became the country's main professional observatory.",
-      "website": "https://www.itpa.lt/"
+      "website": ""
     },
     {
       "id": "griffith-observatory",

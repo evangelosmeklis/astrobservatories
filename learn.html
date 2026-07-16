@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn · Astrobservatories</title>
+  <meta name="description" content="What is an observatory? Explore the types of observatories, the electromagnetic spectrum, why telescopes live on mountaintops, the Bortle scale and the history of astronomy — interactively.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔭</text></svg>">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="content-page">
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-icon" aria-hidden="true">🔭</span>
+      <div class="brand-text">
+        <h1>Astrobservatories</h1>
+        <p class="subtitle">Astronomical observatories around the world</p>
+      </div>
+    </div>
+    <nav class="nav nav-main">
+      <a href="index.html">Map</a>
+      <a href="list.html">List</a>
+      <a href="learn.html" class="active">Learn</a>
+    </nav>
+    <div class="controls">
+      <nav class="nav">
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <a class="gh-link" href="https://github.com/evangelosmeklis/astrobservatories" target="_blank" rel="noopener" aria-label="View source on GitHub" title="View source on GitHub">
+        <svg viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+      </a>
+      <button type="button" id="theme-btn" class="theme-btn" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </header>
+
+  <main class="page-scroll">
+  <div class="page page--wide learn">
+
+    <!-- ============ Hero ============ -->
+    <section class="learn-hero">
+      <div class="hero-stars" id="hero-stars" aria-hidden="true"></div>
+      <div class="hero-inner">
+        <h2>What is an <em>observatory</em>?</h2>
+        <p>
+          A place built to watch the sky. Some are domes on lonely mountaintops, some are
+          giant metal dishes in radio-quiet valleys, some orbit far above the atmosphere —
+          but they all share one job: collecting the faint light the universe sends our way,
+          and turning it into knowledge.
+        </p>
+        <div class="hero-stats">
+          <div class="hero-stat"><strong>5,000+ yrs</strong><span>of sky-watching</span></div>
+          <div class="hero-stat"><strong>7 bands</strong><span>of light observed</span></div>
+          <div class="hero-stat"><strong>5,050 m</strong><span>highest sites on Earth</span></div>
+          <div class="hero-stat"><strong>1.5M km</strong><span>farthest telescope</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Types ============ -->
+    <section class="learn-section" id="types">
+      <header class="chapter-head">
+        <span class="ch-num" aria-hidden="true">01</span>
+        <div>
+          <h3 class="ch-title">The many kinds of observatory</h3>
+          <p class="ch-lead">
+            Not every observatory looks like a white dome. What an observatory looks like —
+            and where it's built — depends entirely on what kind of signal it's trying to catch.
+            Pick a type to explore it.
+          </p>
+        </div>
+      </header>
+      <div class="type-tabs" id="type-tabs" role="tablist" aria-label="Observatory types"></div>
+      <div class="type-panel learn-card" id="type-panel"></div>
+    </section>
+
+    <!-- ============ Spectrum ============ -->
+    <section class="learn-section" id="spectrum">
+      <header class="chapter-head">
+        <span class="ch-num" aria-hidden="true">02</span>
+        <div>
+          <h3 class="ch-title">One sky, seven kinds of light</h3>
+          <p class="ch-lead">
+            Visible light is only a sliver of the electromagnetic spectrum. Each band reveals
+            a different universe — but Earth's atmosphere blocks most of them, which is why
+            observatories end up on mountaintops or in space. Tap a band to see what it shows us.
+          </p>
+        </div>
+      </header>
+      <div class="spectrum-bar" id="spectrum-bar" role="tablist" aria-label="Electromagnetic spectrum bands"></div>
+      <div class="spectrum-scale" aria-hidden="true">
+        <span>← longer waves</span>
+        <span>shorter waves →</span>
+      </div>
+      <div class="spectrum-panel learn-card" id="spectrum-panel"></div>
+    </section>
+
+    <!-- ============ Altitude ============ -->
+    <section class="learn-section" id="altitude">
+      <header class="chapter-head">
+        <span class="ch-num" aria-hidden="true">03</span>
+        <div>
+          <h3 class="ch-title">Why mountaintops?</h3>
+          <p class="ch-lead">
+            Air is the enemy of astronomy: it blurs starlight, glows faintly at night, and its
+            water vapour swallows infrared light entirely. The cure is simple — climb above as
+            much of it as you can. Drag the slider to take an observatory up a mountain.
+          </p>
+        </div>
+      </header>
+      <div class="alt-widget learn-card">
+        <div class="alt-scene" id="alt-scene" aria-hidden="true">
+          <div class="alt-stars" id="alt-stars"></div>
+          <svg viewBox="0 0 400 180" preserveAspectRatio="none" class="alt-mountain">
+            <polygon points="0,180 85,80 200,180" fill="rgba(71, 85, 105, 0.45)"/>
+            <polygon points="100,180 260,25 400,180" fill="rgba(30, 41, 59, 0.8)"/>
+          </svg>
+          <div class="alt-dome" id="alt-dome">🔭</div>
+          <div class="alt-haze" id="alt-haze"></div>
+        </div>
+        <div class="alt-controls">
+          <input type="range" id="alt-slider" min="0" max="5100" step="50" value="0" aria-label="Observatory altitude in metres">
+          <div class="alt-big" id="alt-value">0 m</div>
+          <div class="alt-atmo" id="alt-atmo"></div>
+          <div class="alt-atmo-bar"><div class="alt-atmo-fill" id="alt-fill"></div></div>
+          <p class="alt-desc" id="alt-desc"></p>
+          <div class="alt-example" id="alt-example"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Bortle ============ -->
+    <section class="learn-section" id="bortle">
+      <header class="chapter-head">
+        <span class="ch-num" aria-hidden="true">04</span>
+        <div>
+          <h3 class="ch-title">How dark is your sky?</h3>
+          <p class="ch-lead">
+            Astronomers rate night-sky darkness on the <strong>Bortle scale</strong>, from
+            class 1 (a sky so dark the Milky Way casts shadows) to class 9 (an inner-city
+            glow where only the Moon and a handful of stars survive). Slide through the
+            classes and watch the stars disappear.
+          </p>
+        </div>
+      </header>
+      <div class="bortle-widget learn-card">
+        <div class="bortle-sky" id="bortle-sky" aria-hidden="true">
+          <div class="milky-way" id="milky-way"></div>
+          <div class="bortle-stars" id="bortle-stars"></div>
+          <div class="bortle-horizon"></div>
+        </div>
+        <div class="bortle-controls">
+          <input type="range" id="bortle-slider" min="1" max="9" step="1" value="1" aria-label="Bortle class">
+          <div class="bortle-ticks" aria-hidden="true">
+            <span>1</span><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span>
+          </div>
+          <div class="bortle-readout">
+            <span class="bortle-chip" id="bortle-chip"></span>
+            <span class="bortle-class-name" id="bortle-name"></span>
+          </div>
+          <p class="bortle-desc" id="bortle-desc"></p>
+          <p class="bortle-see" id="bortle-see"></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ Timeline ============ -->
+    <section class="learn-section" id="history">
+      <header class="chapter-head">
+        <span class="ch-num" aria-hidden="true">05</span>
+        <div>
+          <h3 class="ch-title">Five millennia of looking up</h3>
+          <p class="ch-lead">
+            Observatories are older than telescopes — older, even, than writing in some places.
+            Click any milestone to expand it.
+          </p>
+        </div>
+      </header>
+      <div class="timeline" id="timeline"></div>
+    </section>
+
+    <!-- ============ Quiz ============ -->
+    <section class="learn-section" id="quiz">
+      <header class="chapter-head">
+        <span class="ch-num" aria-hidden="true">06</span>
+        <div>
+          <h3 class="ch-title">Test your knowledge</h3>
+          <p class="ch-lead">Six quick questions — no pressure, instant answers.</p>
+        </div>
+      </header>
+      <div class="quiz-card learn-card" id="quiz-card"></div>
+    </section>
+
+    <!-- ============ CTA ============ -->
+    <section class="learn-cta">
+      <p>Ready to explore the real thing?</p>
+      <div class="cta-links">
+        <a class="cta-btn" href="index.html">🗺️ Open the map</a>
+        <a class="cta-btn cta-alt" href="list.html">📋 Browse the list</a>
+      </div>
+    </section>
+
+  </div>
+  </main>
+
+  <script src="js/theme.js"></script>
+  <script src="js/learn.js"></script>
+</body>
+</html>

@@ -17,10 +17,13 @@
         <p class="subtitle">Astronomical observatories around the world</p>
       </div>
     </div>
+    <nav class="nav nav-main">
+      <a href="index.html">Map</a>
+      <a href="list.html" class="active">List</a>
+      <a href="learn.html">Learn</a>
+    </nav>
     <div class="controls">
       <nav class="nav">
-        <a href="index.html">Map</a>
-        <a href="list.html" class="active">List</a>
         <a href="about.html">About</a>
         <a href="contact.html">Contact</a>
       </nav>
@@ -31,7 +34,8 @@
     </div>
   </header>
 
-  <main class="page page--wide">
+  <main class="page-scroll">
+  <div class="page page--wide">
     <h2>All observatories</h2>
 
     <div class="filters">
@@ -58,6 +62,7 @@
 
     <p class="result-count" id="result-count"></p>
     <div class="cards" id="cards"></div>
+  </div>
   </main>
 
   <script src="js/theme.js"></script>
